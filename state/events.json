@@ -51,12 +51,12 @@
 },
 "35239": {
 "when": "01.10.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35240": {
 "when": "01.10.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35241": {
