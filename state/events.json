@@ -79,6 +79,11 @@
 "status": "full",
 "title": "Kurs Florian Bacher"
 },
+"35782": {
+"when": "02.10.2026 17:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
 "35251": {
 "when": "02.10.2026 18:00",
 "status": "wait",
@@ -136,7 +141,7 @@
 },
 "35269": {
 "when": "03.10.2026 16:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35270": {
@@ -1878,5 +1883,10 @@
 "when": "31.10.2026 14:00",
 "status": "mind",
 "title": "(P) Springen"
+},
+"35668": {
+"when": "31.10.2026 15:00",
+"status": "mind",
+"title": "(S+P) Stangentraining"
 }
 }
