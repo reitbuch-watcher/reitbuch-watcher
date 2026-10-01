@@ -61,7 +61,7 @@
 },
 "35241": {
 "when": "01.10.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35780": {
@@ -136,7 +136,7 @@
 },
 "35268": {
 "when": "03.10.2026 15:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Stangentraining"
 },
 "35269": {
@@ -1883,5 +1883,10 @@
 "when": "31.10.2026 14:00",
 "status": "mind",
 "title": "(P) Springen"
+},
+"35668": {
+"when": "31.10.2026 15:00",
+"status": "mind",
+"title": "(S+P) Stangentraining"
 }
 }
