@@ -1161,7 +1161,7 @@
 },
 "35517": {
 "when": "21.10.2026 17:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35518": {
@@ -1883,5 +1883,10 @@
 "when": "31.10.2026 14:00",
 "status": "mind",
 "title": "(P) Springen"
+},
+"35668": {
+"when": "31.10.2026 15:00",
+"status": "mind",
+"title": "(S+P) Stangentraining"
 }
 }
