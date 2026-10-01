@@ -2,7 +2,7 @@ name: Reitbuch slot check
 
 on:
   schedule:
-    - cron: "*/10 4-20 * * *"   # every 10 min, ~6:00-22:50 Munich time (cron runs in UTC)
+    - cron: "*/30 4-20 * * *"   # every 30 min, ~6:00-22:50 Munich time (cron runs in UTC)
   workflow_dispatch:
     inputs:
       debug:
