@@ -1,74 +1,4 @@
 {
-"35257": {
-"when": "01.10.2026 08:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35775": {
-"when": "01.10.2026 10:30",
-"status": "resv",
-"title": "Leading Alpha Programm"
-},
-"35229": {
-"when": "01.10.2026 11:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35230": {
-"when": "01.10.2026 11:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35231": {
-"when": "01.10.2026 12:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35232": {
-"when": "01.10.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35233": {
-"when": "01.10.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35234": {
-"when": "01.10.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35776": {
-"when": "01.10.2026 13:30",
-"status": "resv",
-"title": "Leading Alpha Programm"
-},
-"35238": {
-"when": "01.10.2026 18:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35239": {
-"when": "01.10.2026 18:30",
-"status": "resv",
-"title": "(S+P) Springen"
-},
-"35240": {
-"when": "01.10.2026 19:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35241": {
-"when": "01.10.2026 19:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35780": {
-"when": "01.10.2026 20:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
 "35243": {
 "when": "02.10.2026 11:00",
 "status": "free",
@@ -1883,5 +1813,35 @@
 "when": "31.10.2026 14:00",
 "status": "mind",
 "title": "(P) Springen"
+},
+"35668": {
+"when": "31.10.2026 15:00",
+"status": "mind",
+"title": "(S+P) Stangentraining"
+},
+"35669": {
+"when": "31.10.2026 16:00",
+"status": "mind",
+"title": "(S+P) Cavaletti"
+},
+"35670": {
+"when": "31.10.2026 17:00",
+"status": "mind",
+"title": "(S+P) Springen"
+},
+"35671": {
+"when": "31.10.2026 18:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35672": {
+"when": "31.10.2026 19:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35673": {
+"when": "31.10.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
 }
 }
