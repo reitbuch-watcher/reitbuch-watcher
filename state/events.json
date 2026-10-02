@@ -51,8 +51,8 @@
 },
 "35264": {
 "when": "03.10.2026 12:30",
-"status": "mind",
-"title": "(P) Einzelstunde"
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35265": {
 "when": "03.10.2026 13:00",
@@ -63,11 +63,6 @@
 "when": "03.10.2026 13:45",
 "status": "full",
 "title": "(S) Schnupper-Reitstunde"
-},
-"35268": {
-"when": "03.10.2026 15:00",
-"status": "mind",
-"title": "(S+P) Stangentraining"
 },
 "35269": {
 "when": "03.10.2026 16:00",
