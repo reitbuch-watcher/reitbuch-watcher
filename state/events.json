@@ -1486,7 +1486,7 @@
 },
 "35602": {
 "when": "27.10.2026 12:00",
-"status": "mind",
+"status": "wait",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35603": {
@@ -1626,7 +1626,7 @@
 },
 "35630": {
 "when": "29.10.2026 11:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35631": {
