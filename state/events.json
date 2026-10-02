@@ -466,7 +466,7 @@
 },
 "35387": {
 "when": "09.10.2026 18:00",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35388": {
@@ -476,7 +476,7 @@
 },
 "35389": {
 "when": "09.10.2026 18:30",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35390": {
