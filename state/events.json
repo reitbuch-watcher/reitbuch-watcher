@@ -26,12 +26,12 @@
 },
 "35265": {
 "when": "03.10.2026 13:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35266": {
 "when": "03.10.2026 13:45",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35269": {
@@ -206,7 +206,7 @@
 },
 "35337": {
 "when": "05.10.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35338": {
@@ -248,6 +248,11 @@
 "when": "06.10.2026 17:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35783": {
+"when": "06.10.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35346": {
 "when": "06.10.2026 18:00",
