@@ -1,7 +1,7 @@
 {
 "35778": {
 "when": "03.10.2026 09:00",
-"status": "full",
+"status": "resv",
 "title": "Kurs Florian Bacher"
 },
 "35261": {
@@ -11,7 +11,7 @@
 },
 "35262": {
 "when": "03.10.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35263": {
