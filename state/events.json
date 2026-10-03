@@ -36,22 +36,22 @@
 },
 "35269": {
 "when": "03.10.2026 16:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Cavaletti"
 },
 "35270": {
 "when": "03.10.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35271": {
 "when": "03.10.2026 18:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35272": {
 "when": "03.10.2026 19:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35273": {
@@ -276,7 +276,7 @@
 },
 "35350": {
 "when": "06.10.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35351": {
@@ -356,7 +356,7 @@
 },
 "35366": {
 "when": "08.10.2026 13:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35367": {
@@ -401,7 +401,7 @@
 },
 "35375": {
 "when": "09.10.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35377": {
@@ -751,7 +751,7 @@
 },
 "35453": {
 "when": "16.10.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35454": {
@@ -1751,12 +1751,12 @@
 },
 "35661": {
 "when": "31.10.2026 10:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35662": {
 "when": "31.10.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35663": {
