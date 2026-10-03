@@ -6,7 +6,7 @@
 },
 "35261": {
 "when": "03.10.2026 10:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35262": {
@@ -1131,7 +1131,7 @@
 },
 "35532": {
 "when": "22.10.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35533": {
