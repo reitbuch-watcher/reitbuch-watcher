@@ -66,62 +66,62 @@
 },
 "35286": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
 },
 "35287": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
 },
 "35288": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
 },
 "35289": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
 },
 "35290": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
 },
 "35291": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
 },
 "35292": {
 "when": "04.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
 },
 "35293": {
 "when": "04.10.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
 },
 "35294": {
 "when": "04.10.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
 },
 "35295": {
 "when": "04.10.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 },
 "35296": {
 "when": "04.10.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
 },
 "35297": {
 "when": "04.10.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
 },
 "35393": {
@@ -206,7 +206,7 @@
 },
 "35347": {
 "when": "06.10.2026 18:00",
-"status": "full",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35348": {
@@ -246,7 +246,7 @@
 },
 "35355": {
 "when": "07.10.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35356": {
@@ -751,7 +751,7 @@
 },
 "35464": {
 "when": "17.10.2026 13:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35466": {
