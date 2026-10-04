@@ -1,64 +1,4 @@
 {
-"35778": {
-"when": "03.10.2026 09:00",
-"status": "resv",
-"title": "Kurs Florian Bacher"
-},
-"35261": {
-"when": "03.10.2026 10:00",
-"status": "resv",
-"title": "(S) Dressur 1 (Anfänger)"
-},
-"35262": {
-"when": "03.10.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35263": {
-"when": "03.10.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35264": {
-"when": "03.10.2026 12:30",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"35265": {
-"when": "03.10.2026 13:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35266": {
-"when": "03.10.2026 13:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35269": {
-"when": "03.10.2026 16:00",
-"status": "resv",
-"title": "(S+P) Cavaletti"
-},
-"35270": {
-"when": "03.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Springen"
-},
-"35271": {
-"when": "03.10.2026 18:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35272": {
-"when": "03.10.2026 19:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35273": {
-"when": "03.10.2026 20:00",
-"status": "mind",
-"title": "(P) freies Springen (ohne Trainer)"
-},
 "35779": {
 "when": "04.10.2026 09:00",
 "status": "full",
@@ -876,7 +816,7 @@
 },
 "35479": {
 "when": "18.10.2026 15:00",
-"status": "free",
+"status": "wait",
 "title": "Unterricht: Umgang mit dem Pferd"
 },
 "35480": {
