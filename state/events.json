@@ -1,7 +1,7 @@
 {
 "35779": {
 "when": "04.10.2026 09:00",
-"status": "full",
+"status": "resv",
 "title": "Geländekurs Jaro"
 },
 "35274": {
@@ -26,42 +26,42 @@
 },
 "35278": {
 "when": "04.10.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Longe"
 },
 "35279": {
 "when": "04.10.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
+},
+"35784": {
+"when": "04.10.2026 14:00",
+"status": "resv",
+"title": "(P) Geländetraining Einzelstunde"
 },
 "35280": {
 "when": "04.10.2026 14:15",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35282": {
 "when": "04.10.2026 16:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35784": {
-"when": "04.10.2026 17:00",
-"status": "wait",
-"title": "(P) Geländetraining Einzelstunde"
 },
 "35283": {
 "when": "04.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35284": {
 "when": "04.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35285": {
 "when": "04.10.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35286": {
@@ -236,7 +236,7 @@
 },
 "35353": {
 "when": "07.10.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35354": {
@@ -256,7 +256,7 @@
 },
 "35357": {
 "when": "07.10.2026 18:00",
-"status": "free",
+"status": "wait",
 "title": "(P) Cavaletti und Springen"
 },
 "35358": {
@@ -451,7 +451,7 @@
 },
 "35403": {
 "when": "13.10.2026 14:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35404": {
@@ -786,7 +786,7 @@
 },
 "35472": {
 "when": "18.10.2026 10:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35473": {
@@ -1201,7 +1201,7 @@
 },
 "35558": {
 "when": "24.10.2026 13:00",
-"status": "wait",
+"status": "full",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35559": {
