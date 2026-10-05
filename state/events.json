@@ -11,7 +11,7 @@
 },
 "35394": {
 "when": "05.10.2026 17:45",
-"status": "wait",
+"status": "resv",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "35395": {
@@ -1551,7 +1551,7 @@
 },
 "35657": {
 "when": "30.10.2026 18:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35658": {
@@ -1853,10 +1853,5 @@
 "when": "06.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35722": {
-"when": "06.11.2026 16:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
 }
