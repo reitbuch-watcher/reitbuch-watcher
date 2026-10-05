@@ -414,20 +414,10 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
-"35421": {
-"when": "14.10.2026 18:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
 "35422": {
 "when": "14.10.2026 18:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35423": {
-"when": "14.10.2026 19:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35424": {
 "when": "14.10.2026 19:00",
@@ -441,7 +431,7 @@
 },
 "35426": {
 "when": "14.10.2026 20:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
 },
 "35427": {
@@ -1604,11 +1594,6 @@
 "status": "mind",
 "title": "(S) Schnupper-Reitstunde"
 },
-"35667": {
-"when": "31.10.2026 14:00",
-"status": "mind",
-"title": "(P) Springen"
-},
 "35668": {
 "when": "31.10.2026 15:00",
 "status": "free",
@@ -1882,6 +1867,16 @@
 "35725": {
 "when": "06.11.2026 17:00",
 "status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35726": {
+"when": "06.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35727": {
+"when": "06.11.2026 17:30",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
 }
