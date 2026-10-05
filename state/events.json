@@ -96,12 +96,12 @@
 },
 "35349": {
 "when": "06.10.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35350": {
 "when": "06.10.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35351": {
@@ -146,7 +146,7 @@
 },
 "35359": {
 "when": "07.10.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35360": {
