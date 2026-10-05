@@ -1,129 +1,4 @@
 {
-"35779": {
-"when": "04.10.2026 09:00",
-"status": "resv",
-"title": "Geländekurs Jaro"
-},
-"35274": {
-"when": "04.10.2026 10:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35275": {
-"when": "04.10.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35276": {
-"when": "04.10.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35277": {
-"when": "04.10.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35278": {
-"when": "04.10.2026 13:00",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35279": {
-"when": "04.10.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35784": {
-"when": "04.10.2026 14:00",
-"status": "resv",
-"title": "(P) Geländetraining Einzelstunde"
-},
-"35280": {
-"when": "04.10.2026 14:15",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35282": {
-"when": "04.10.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35283": {
-"when": "04.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35284": {
-"when": "04.10.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35285": {
-"when": "04.10.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35286": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35287": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35288": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35289": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
-},
-"35290": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
-},
-"35291": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
-},
-"35292": {
-"when": "04.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
-},
-"35293": {
-"when": "04.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
-},
-"35294": {
-"when": "04.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
-"35295": {
-"when": "04.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
-},
-"35296": {
-"when": "04.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
-"35297": {
-"when": "04.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
-},
 "35393": {
 "when": "05.10.2026 17:00",
 "status": "wait",
@@ -1758,5 +1633,275 @@
 "when": "31.10.2026 20:00",
 "status": "mind",
 "title": "(P) freies Springen (ohne Trainer)"
+},
+"35677": {
+"when": "02.11.2026 19:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35678": {
+"when": "02.11.2026 19:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35679": {
+"when": "03.11.2026 11:00",
+"status": "wait",
+"title": "(S+P) Hausfrauen Dressur"
+},
+"35680": {
+"when": "03.11.2026 12:00",
+"status": "mind",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"35681": {
+"when": "03.11.2026 13:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35682": {
+"when": "03.11.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35683": {
+"when": "03.11.2026 14:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35684": {
+"when": "03.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35685": {
+"when": "03.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35686": {
+"when": "03.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35687": {
+"when": "03.11.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35688": {
+"when": "03.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35689": {
+"when": "03.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35690": {
+"when": "03.11.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 3 (Aufbau)"
+},
+"35691": {
+"when": "03.11.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35692": {
+"when": "03.11.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35693": {
+"when": "04.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35694": {
+"when": "04.11.2026 17:00",
+"status": "mind",
+"title": "(P) Springen Einzel Jaroslav Pikolon"
+},
+"35695": {
+"when": "04.11.2026 17:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"35696": {
+"when": "04.11.2026 17:30",
+"status": "mind",
+"title": "(P) Springen Einzel Jaroslav Pikolon"
+},
+"35697": {
+"when": "04.11.2026 17:45",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"35698": {
+"when": "04.11.2026 18:00",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
+},
+"35699": {
+"when": "04.11.2026 18:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35700": {
+"when": "04.11.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35701": {
+"when": "04.11.2026 20:00",
+"status": "mind",
+"title": "(S+P) Stangentraining"
+},
+"35702": {
+"when": "05.11.2026 11:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35703": {
+"when": "05.11.2026 11:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35704": {
+"when": "05.11.2026 12:00",
+"status": "mind",
+"title": "(P) Einzelstunde"
+},
+"35705": {
+"when": "05.11.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35706": {
+"when": "05.11.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35707": {
+"when": "05.11.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35708": {
+"when": "05.11.2026 14:00",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"35709": {
+"when": "05.11.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35710": {
+"when": "05.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35711": {
+"when": "05.11.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35712": {
+"when": "05.11.2026 19:00",
+"status": "mind",
+"title": "(S+P) Springen"
+},
+"35713": {
+"when": "05.11.2026 19:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35714": {
+"when": "05.11.2026 19:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35715": {
+"when": "05.11.2026 20:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"35716": {
+"when": "06.11.2026 11:00",
+"status": "mind",
+"title": "(S+P) Hausfrauen Stangentraining"
+},
+"35717": {
+"when": "06.11.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35718": {
+"when": "06.11.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35719": {
+"when": "06.11.2026 15:30",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35720": {
+"when": "06.11.2026 15:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35721": {
+"when": "06.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35722": {
+"when": "06.11.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35723": {
+"when": "06.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35724": {
+"when": "06.11.2026 17:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35725": {
+"when": "06.11.2026 17:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35726": {
+"when": "06.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35727": {
+"when": "06.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35728": {
+"when": "06.11.2026 18:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35729": {
+"when": "06.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35730": {
+"when": "06.11.2026 18:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
 }
 }
