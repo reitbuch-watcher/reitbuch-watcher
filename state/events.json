@@ -686,8 +686,8 @@
 },
 "35478": {
 "when": "18.10.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35479": {
 "when": "18.10.2026 15:00",
@@ -1866,7 +1866,7 @@
 },
 "35725": {
 "when": "06.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35726": {
