@@ -1606,7 +1606,7 @@
 },
 "35668": {
 "when": "31.10.2026 15:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35669": {
@@ -1898,10 +1898,5 @@
 "when": "06.11.2026 18:00",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35730": {
-"when": "06.11.2026 18:30",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
 }
 }
