@@ -1,4 +1,9 @@
 {
+"35891": {
+"when": "05.10.2026 14:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
 "35393": {
 "when": "05.10.2026 17:00",
 "status": "wait",
@@ -1401,7 +1406,7 @@
 },
 "35628": {
 "when": "28.10.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35629": {
@@ -1746,7 +1751,7 @@
 },
 "35701": {
 "when": "04.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35702": {
@@ -1851,31 +1856,6 @@
 },
 "35722": {
 "when": "06.11.2026 16:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35723": {
-"when": "06.11.2026 16:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35724": {
-"when": "06.11.2026 17:00",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
-},
-"35725": {
-"when": "06.11.2026 17:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35726": {
-"when": "06.11.2026 17:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"35727": {
-"when": "06.11.2026 17:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
