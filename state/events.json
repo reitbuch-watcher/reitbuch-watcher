@@ -1626,7 +1626,7 @@
 },
 "35688": {
 "when": "03.11.2026 18:00",
-"status": "wait",
+"status": "full",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35689": {
@@ -1858,10 +1858,5 @@
 "when": "07.11.2026 10:00",
 "status": "mind",
 "title": "(S) Dressur 1 (Anfänger)"
-},
-"35735": {
-"when": "07.11.2026 11:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
