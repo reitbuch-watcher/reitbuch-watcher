@@ -16,7 +16,7 @@
 },
 "35341": {
 "when": "06.10.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35342": {
@@ -161,7 +161,7 @@
 },
 "35375": {
 "when": "09.10.2026 11:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35377": {
@@ -201,7 +201,7 @@
 },
 "35387": {
 "when": "09.10.2026 18:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35388": {
@@ -411,7 +411,7 @@
 },
 "35435": {
 "when": "15.10.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35436": {
@@ -1858,10 +1858,5 @@
 "when": "07.11.2026 12:00",
 "status": "mind",
 "title": "(S+P) Einzelstunde"
-},
-"35737": {
-"when": "07.11.2026 12:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
 }
 }
