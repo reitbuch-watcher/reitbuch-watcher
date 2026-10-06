@@ -151,7 +151,7 @@
 },
 "35371": {
 "when": "08.10.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35372": {
@@ -1858,5 +1858,10 @@
 "when": "07.11.2026 10:00",
 "status": "mind",
 "title": "(S) Dressur 1 (Anfänger)"
+},
+"35735": {
+"when": "07.11.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
