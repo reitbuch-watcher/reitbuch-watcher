@@ -1,39 +1,4 @@
 {
-"35891": {
-"when": "05.10.2026 14:00",
-"status": "resv",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35393": {
-"when": "05.10.2026 17:00",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35394": {
-"when": "05.10.2026 17:45",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35395": {
-"when": "05.10.2026 18:30",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35336": {
-"when": "05.10.2026 19:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35397": {
-"when": "05.10.2026 19:15",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35337": {
-"when": "05.10.2026 19:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
 "35338": {
 "when": "06.10.2026 11:00",
 "status": "free",
@@ -181,7 +146,7 @@
 },
 "35365": {
 "when": "08.10.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35366": {
@@ -1853,5 +1818,50 @@
 "when": "06.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35722": {
+"when": "06.11.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35723": {
+"when": "06.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35724": {
+"when": "06.11.2026 17:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35725": {
+"when": "06.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35726": {
+"when": "06.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35727": {
+"when": "06.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35728": {
+"when": "06.11.2026 18:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35729": {
+"when": "06.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35730": {
+"when": "06.11.2026 18:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 }
 }
