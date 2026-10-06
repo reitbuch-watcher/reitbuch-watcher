@@ -36,7 +36,7 @@
 },
 "35346": {
 "when": "06.10.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35349": {
@@ -211,7 +211,7 @@
 },
 "35387": {
 "when": "09.10.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35388": {
