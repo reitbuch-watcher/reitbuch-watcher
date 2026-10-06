@@ -21,7 +21,7 @@
 },
 "35342": {
 "when": "06.10.2026 14:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35888": {
@@ -64,6 +64,11 @@
 "status": "mind",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
+"35893": {
+"when": "07.10.2026 17:30",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
 "35356": {
 "when": "07.10.2026 17:45",
 "status": "full",
@@ -78,6 +83,11 @@
 "when": "07.10.2026 18:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"35894": {
+"when": "07.10.2026 18:30",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35359": {
 "when": "07.10.2026 19:00",
@@ -1853,10 +1863,5 @@
 "when": "07.11.2026 11:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35736": {
-"when": "07.11.2026 12:00",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
 }
 }
