@@ -1141,7 +1141,7 @@
 },
 "35596": {
 "when": "26.10.2026 17:45",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "35597": {
@@ -1883,10 +1883,5 @@
 "when": "08.11.2026 11:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35749": {
-"when": "08.11.2026 12:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 }
 }
