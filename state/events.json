@@ -26,7 +26,7 @@
 },
 "35356": {
 "when": "07.10.2026 17:45",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35357": {
@@ -296,7 +296,7 @@
 },
 "35416": {
 "when": "14.10.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35417": {
@@ -831,8 +831,8 @@
 },
 "35528": {
 "when": "22.10.2026 14:00",
-"status": "full",
-"title": "(S) Schnupper-Reitstunde"
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35529": {
 "when": "22.10.2026 17:00",
