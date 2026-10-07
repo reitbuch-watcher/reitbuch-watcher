@@ -131,7 +131,7 @@
 },
 "35377": {
 "when": "09.10.2026 15:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35378": {
@@ -306,7 +306,7 @@
 },
 "35419": {
 "when": "14.10.2026 18:00",
-"status": "free",
+"status": "mind",
 "title": "(P) Cavaletti und Springen"
 },
 "35420": {
@@ -1883,5 +1883,10 @@
 "when": "08.11.2026 11:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35749": {
+"when": "08.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 }
 }
