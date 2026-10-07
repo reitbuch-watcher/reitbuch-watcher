@@ -266,7 +266,7 @@
 },
 "35410": {
 "when": "13.10.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35411": {
@@ -1811,7 +1811,7 @@
 },
 "35734": {
 "when": "07.11.2026 10:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35735": {
@@ -1878,10 +1878,5 @@
 "when": "08.11.2026 10:00",
 "status": "mind",
 "title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35748": {
-"when": "08.11.2026 11:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
