@@ -706,7 +706,7 @@
 },
 "35503": {
 "when": "20.10.2026 14:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35504": {
@@ -831,7 +831,7 @@
 },
 "35528": {
 "when": "22.10.2026 14:00",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35529": {
