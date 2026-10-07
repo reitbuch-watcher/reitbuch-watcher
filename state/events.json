@@ -1,7 +1,7 @@
 {
 "35352": {
 "when": "07.10.2026 16:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35353": {
@@ -1878,10 +1878,5 @@
 "when": "08.11.2026 10:00",
 "status": "mind",
 "title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35748": {
-"when": "08.11.2026 11:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
