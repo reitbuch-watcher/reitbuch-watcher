@@ -74,65 +74,20 @@
 "status": "wait",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
-"35377": {
-"when": "09.10.2026 15:00",
-"status": "mind",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35378": {
-"when": "09.10.2026 15:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35381": {
-"when": "09.10.2026 16:00",
-"status": "mind",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35382": {
-"when": "09.10.2026 16:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35384": {
-"when": "09.10.2026 17:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
 "35896": {
 "when": "09.10.2026 17:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"35386": {
-"when": "09.10.2026 17:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35387": {
 "when": "09.10.2026 18:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 },
-"35388": {
-"when": "09.10.2026 18:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
 "35389": {
 "when": "09.10.2026 18:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"35390": {
-"when": "09.10.2026 18:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35391": {
-"when": "09.10.2026 19:00",
-"status": "mind",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35772": {
 "when": "09.10.2026 19:00",
@@ -1893,5 +1848,50 @@
 "when": "08.11.2026 20:00",
 "status": "mind",
 "title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
+},
+"35762": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
+},
+"35763": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
+},
+"35764": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
+},
+"35765": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
+},
+"35766": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
+},
+"35767": {
+"when": "08.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
+},
+"35768": {
+"when": "08.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
+},
+"35769": {
+"when": "08.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
+},
+"35770": {
+"when": "08.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
 }
 }
