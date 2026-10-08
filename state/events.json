@@ -99,6 +99,11 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
+"35896": {
+"when": "09.10.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
 "35386": {
 "when": "09.10.2026 17:30",
 "status": "wait",
@@ -1888,10 +1893,5 @@
 "when": "08.11.2026 20:00",
 "status": "mind",
 "title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35762": {
-"when": "08.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
 }
 }
