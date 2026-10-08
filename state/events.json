@@ -1,59 +1,4 @@
 {
-"35352": {
-"when": "07.10.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35353": {
-"when": "07.10.2026 17:00",
-"status": "resv",
-"title": "(P) Springen Einzel Jaroslav Pikolon"
-},
-"35895": {
-"when": "07.10.2026 17:15",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35355": {
-"when": "07.10.2026 17:30",
-"status": "resv",
-"title": "(P) Geländetraining Einzelstunde"
-},
-"35893": {
-"when": "07.10.2026 17:30",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"35356": {
-"when": "07.10.2026 17:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35357": {
-"when": "07.10.2026 18:00",
-"status": "resv",
-"title": "(P) Cavaletti und Springen"
-},
-"35358": {
-"when": "07.10.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35894": {
-"when": "07.10.2026 18:30",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"35359": {
-"when": "07.10.2026 19:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35360": {
-"when": "07.10.2026 20:00",
-"status": "resv",
-"title": "(S+P) Stangentraining"
-},
 "35361": {
 "when": "08.10.2026 11:00",
 "status": "wait",
@@ -266,7 +211,7 @@
 },
 "35410": {
 "when": "13.10.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35411": {
@@ -1868,5 +1813,100 @@
 "when": "07.11.2026 19:00",
 "status": "mind",
 "title": "(P) freies Springen (ohne Trainer)"
+},
+"35746": {
+"when": "07.11.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35747": {
+"when": "08.11.2026 10:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35748": {
+"when": "08.11.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35749": {
+"when": "08.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35750": {
+"when": "08.11.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35751": {
+"when": "08.11.2026 13:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35752": {
+"when": "08.11.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35753": {
+"when": "08.11.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"35754": {
+"when": "08.11.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35755": {
+"when": "08.11.2026 15:30",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"35756": {
+"when": "08.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35757": {
+"when": "08.11.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35758": {
+"when": "08.11.2026 17:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35759": {
+"when": "08.11.2026 18:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35760": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
+},
+"35761": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
+},
+"35762": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
+},
+"35763": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
+},
+"35764": {
+"when": "08.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
 }
 }
