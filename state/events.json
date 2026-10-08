@@ -56,7 +56,7 @@
 },
 "35372": {
 "when": "08.10.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35373": {
@@ -1893,10 +1893,5 @@
 "when": "08.11.2026 20:00",
 "status": "mind",
 "title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35763": {
-"when": "08.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
 }
 }
