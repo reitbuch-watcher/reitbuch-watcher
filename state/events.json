@@ -1857,7 +1857,7 @@
 "35754": {
 "when": "08.11.2026 15:00",
 "status": "mind",
-"title": "(S+P) Einzelstunde"
+"title": "(S+P) Longe"
 },
 "35755": {
 "when": "08.11.2026 15:30",
@@ -1903,10 +1903,5 @@
 "when": "08.11.2026 20:00",
 "status": "mind",
 "title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35764": {
-"when": "08.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
 }
 }
