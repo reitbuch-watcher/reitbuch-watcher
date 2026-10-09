@@ -1,7 +1,7 @@
 {
 "35375": {
 "when": "09.10.2026 11:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35897": {
@@ -1021,7 +1021,7 @@
 },
 "35605": {
 "when": "27.10.2026 14:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35606": {
@@ -1171,8 +1171,8 @@
 },
 "35635": {
 "when": "29.10.2026 14:00",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35636": {
 "when": "29.10.2026 17:00",
