@@ -6,7 +6,7 @@
 },
 "35897": {
 "when": "09.10.2026 16:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35896": {
@@ -211,7 +211,7 @@
 },
 "35435": {
 "when": "15.10.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35436": {
@@ -616,7 +616,7 @@
 },
 "35518": {
 "when": "21.10.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(P) Cavaletti und Springen"
 },
 "35519": {
