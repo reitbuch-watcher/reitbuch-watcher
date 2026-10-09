@@ -1,74 +1,4 @@
 {
-"35361": {
-"when": "08.10.2026 11:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35362": {
-"when": "08.10.2026 11:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35363": {
-"when": "08.10.2026 12:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35364": {
-"when": "08.10.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35365": {
-"when": "08.10.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35366": {
-"when": "08.10.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35367": {
-"when": "08.10.2026 14:00",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35368": {
-"when": "08.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35369": {
-"when": "08.10.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35370": {
-"when": "08.10.2026 18:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35371": {
-"when": "08.10.2026 19:00",
-"status": "resv",
-"title": "(S+P) Springen"
-},
-"35372": {
-"when": "08.10.2026 19:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35373": {
-"when": "08.10.2026 19:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35374": {
-"when": "08.10.2026 20:00",
-"status": "resv",
-"title": "(S+P) Dressur 2+3"
-},
 "35375": {
 "when": "09.10.2026 11:00",
 "status": "wait",
@@ -1893,5 +1823,10 @@
 "when": "08.11.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
+},
+"35771": {
+"when": "08.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 }
 }
