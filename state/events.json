@@ -486,7 +486,7 @@
 },
 "35498": {
 "when": "19.10.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35499": {
@@ -666,7 +666,7 @@
 },
 "35534": {
 "when": "22.10.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35535": {
@@ -961,7 +961,7 @@
 },
 "35600": {
 "when": "26.10.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35595": {
@@ -1516,7 +1516,7 @@
 },
 "35714": {
 "when": "05.11.2026 19:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35715": {
@@ -1586,7 +1586,7 @@
 },
 "35728": {
 "when": "06.11.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35729": {
