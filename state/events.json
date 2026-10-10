@@ -361,7 +361,7 @@
 },
 "35472": {
 "when": "18.10.2026 10:00",
-"status": "wait",
+"status": "full",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35473": {
@@ -846,7 +846,7 @@
 },
 "35573": {
 "when": "25.10.2026 14:15",
-"status": "wait",
+"status": "full",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35574": {
@@ -1681,7 +1681,7 @@
 },
 "35747": {
 "when": "08.11.2026 10:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35748": {
