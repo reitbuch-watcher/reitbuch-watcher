@@ -131,7 +131,7 @@
 },
 "35426": {
 "when": "14.10.2026 20:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
 },
 "35427": {
@@ -821,7 +821,7 @@
 },
 "35569": {
 "when": "25.10.2026 12:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35570": {
