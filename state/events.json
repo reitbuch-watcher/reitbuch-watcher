@@ -66,7 +66,7 @@
 },
 "35410": {
 "when": "13.10.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35411": {
@@ -331,7 +331,7 @@
 },
 "35467": {
 "when": "17.10.2026 16:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35468": {
