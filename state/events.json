@@ -247,7 +247,7 @@
 "35449": {
 "when": "16.10.2026 17:00",
 "status": "mind",
-"title": "(S+P) Einzelstunde"
+"title": "(S+P) Longe"
 },
 "35450": {
 "when": "16.10.2026 17:00",
@@ -1246,8 +1246,8 @@
 },
 "35657": {
 "when": "30.10.2026 18:30",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
+"status": "wait",
+"title": "(S+P) Longe"
 },
 "35658": {
 "when": "30.10.2026 18:30",
