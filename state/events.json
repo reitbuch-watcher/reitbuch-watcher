@@ -1798,5 +1798,135 @@
 "when": "08.11.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
+},
+"35785": {
+"when": "09.11.2026 17:00",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"35786": {
+"when": "09.11.2026 17:45",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"35787": {
+"when": "09.11.2026 18:30",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"35788": {
+"when": "09.11.2026 19:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35789": {
+"when": "09.11.2026 19:15",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"35790": {
+"when": "09.11.2026 19:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35791": {
+"when": "10.11.2026 11:00",
+"status": "wait",
+"title": "(S+P) Hausfrauen Dressur"
+},
+"35792": {
+"when": "10.11.2026 12:00",
+"status": "mind",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"35793": {
+"when": "10.11.2026 13:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35794": {
+"when": "10.11.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35795": {
+"when": "10.11.2026 14:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35796": {
+"when": "10.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35797": {
+"when": "10.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35798": {
+"when": "10.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35799": {
+"when": "10.11.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35800": {
+"when": "10.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35801": {
+"when": "10.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35802": {
+"when": "10.11.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 3 (Aufbau)"
+},
+"35803": {
+"when": "10.11.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35804": {
+"when": "10.11.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35805": {
+"when": "10.11.2026 20:15",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
+},
+"35806": {
+"when": "11.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35807": {
+"when": "11.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35808": {
+"when": "11.11.2026 17:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"35809": {
+"when": "11.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35810": {
+"when": "11.11.2026 17:45",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
 }
 }
