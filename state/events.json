@@ -192,7 +192,7 @@
 "35438": {
 "when": "15.10.2026 19:00",
 "status": "mind",
-"title": "(S+P) Einzelstunde"
+"title": "(P) Einzelstunde"
 },
 "35439": {
 "when": "15.10.2026 19:30",
@@ -291,7 +291,7 @@
 },
 "35458": {
 "when": "16.10.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "35459": {
@@ -1918,10 +1918,5 @@
 "when": "11.11.2026 18:00",
 "status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35813": {
-"when": "11.11.2026 18:30",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
 }
 }
