@@ -1,7 +1,7 @@
 {
 "35396": {
 "when": "12.10.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35398": {
@@ -1918,5 +1918,10 @@
 "when": "11.11.2026 18:00",
 "status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35813": {
+"when": "11.11.2026 18:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
 }
 }
