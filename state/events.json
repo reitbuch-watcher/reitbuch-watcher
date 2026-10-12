@@ -191,7 +191,7 @@
 },
 "35438": {
 "when": "15.10.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35439": {
@@ -303,26 +303,6 @@
 "when": "17.10.2026 11:00",
 "status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35461": {
-"when": "17.10.2026 12:00",
-"status": "full",
-"title": "(S+P) Einzelstunde"
-},
-"35462": {
-"when": "17.10.2026 12:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
-},
-"35463": {
-"when": "17.10.2026 13:00",
-"status": "wait",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35464": {
-"when": "17.10.2026 13:45",
-"status": "full",
-"title": "(S) Schnupper-Reitstunde"
 },
 "35466": {
 "when": "17.10.2026 15:00",
@@ -774,9 +754,9 @@
 "status": "full",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
-"35559": {
+"35464": {
 "when": "24.10.2026 13:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35561": {
@@ -1821,7 +1801,7 @@
 },
 "35789": {
 "when": "09.11.2026 19:15",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "35790": {
@@ -1933,5 +1913,25 @@
 "when": "11.11.2026 18:00",
 "status": "mind",
 "title": "(P) Cavaletti und Springen"
+},
+"35812": {
+"when": "11.11.2026 18:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35813": {
+"when": "11.11.2026 18:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35814": {
+"when": "11.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35815": {
+"when": "11.11.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
