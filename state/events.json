@@ -131,7 +131,7 @@
 },
 "35426": {
 "when": "14.10.2026 20:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35427": {
@@ -1928,5 +1928,10 @@
 "when": "11.11.2026 17:45",
 "status": "mind",
 "title": "(S) Schnupper-Reitstunde"
+},
+"35811": {
+"when": "11.11.2026 18:00",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
 }
 }
