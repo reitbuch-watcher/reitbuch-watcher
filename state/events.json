@@ -281,7 +281,7 @@
 },
 "35458": {
 "when": "16.10.2026 19:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Dressur 2+3"
 },
 "35459": {
@@ -1873,5 +1873,10 @@
 "when": "10.11.2026 20:15",
 "status": "mind",
 "title": "(P) Cavaletti und Springen"
+},
+"35806": {
+"when": "11.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
