@@ -21,7 +21,7 @@
 },
 "35403": {
 "when": "13.10.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35404": {
@@ -1861,11 +1861,6 @@
 },
 "35803": {
 "when": "10.11.2026 19:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35804": {
-"when": "10.11.2026 19:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 }
