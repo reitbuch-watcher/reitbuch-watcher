@@ -306,7 +306,7 @@
 },
 "35468": {
 "when": "17.10.2026 17:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35469": {
@@ -1853,10 +1853,5 @@
 "when": "10.11.2026 18:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35802": {
-"when": "10.11.2026 19:00",
-"status": "mind",
-"title": "(S) Dressur 3 (Aufbau)"
 }
 }
