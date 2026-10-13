@@ -79,6 +79,16 @@
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
+"35424": {
+"when": "14.10.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"35425": {
+"when": "14.10.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
 "35415": {
 "when": "14.10.2026 17:00",
 "status": "wait",
@@ -106,16 +116,6 @@
 },
 "35422": {
 "when": "14.10.2026 18:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35424": {
-"when": "14.10.2026 19:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35425": {
-"when": "14.10.2026 19:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
