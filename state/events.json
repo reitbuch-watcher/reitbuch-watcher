@@ -41,7 +41,7 @@
 },
 "35426": {
 "when": "14.10.2026 20:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Stangentraining"
 },
 "35427": {
@@ -81,11 +81,6 @@
 },
 "35434": {
 "when": "15.10.2026 17:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"35435": {
-"when": "15.10.2026 17:30",
 "status": "mind",
 "title": "(S+P) Einzelstunde"
 },
@@ -93,6 +88,11 @@
 "when": "15.10.2026 17:30",
 "status": "wait",
 "title": "(P) Geländetraining Einzelstunde"
+},
+"35435": {
+"when": "15.10.2026 18:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35436": {
 "when": "15.10.2026 18:30",
@@ -591,7 +591,7 @@
 },
 "35542": {
 "when": "23.10.2026 16:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35543": {
