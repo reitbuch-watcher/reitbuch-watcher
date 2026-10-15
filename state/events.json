@@ -1863,5 +1863,10 @@
 "when": "12.11.2026 19:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"35832": {
+"when": "12.11.2026 20:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
 }
 }
