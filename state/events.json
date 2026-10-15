@@ -26,12 +26,12 @@
 },
 "35594": {
 "when": "15.10.2026 13:30",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35433": {
 "when": "15.10.2026 14:15",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35434": {
@@ -176,7 +176,7 @@
 },
 "35467": {
 "when": "17.10.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35468": {
@@ -221,7 +221,7 @@
 },
 "35476": {
 "when": "18.10.2026 13:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35477": {
@@ -426,7 +426,7 @@
 },
 "35518": {
 "when": "21.10.2026 18:00",
-"status": "wait",
+"status": "free",
 "title": "(P) Cavaletti und Springen"
 },
 "35519": {
