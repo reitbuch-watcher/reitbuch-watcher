@@ -11,12 +11,12 @@
 },
 "35429": {
 "when": "15.10.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35430": {
 "when": "15.10.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "Beritt"
 },
 "35431": {
