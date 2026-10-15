@@ -36,12 +36,12 @@
 },
 "35434": {
 "when": "15.10.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35994": {
 "when": "15.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Geländetraining Einzelstunde"
 },
 "35435": {
@@ -74,35 +74,30 @@
 "status": "free",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
-"35442": {
-"when": "16.10.2026 15:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
 "35443": {
 "when": "16.10.2026 15:00",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35444": {
-"when": "16.10.2026 15:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 },
 "35445": {
 "when": "16.10.2026 15:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
-"35446": {
+"35442": {
 "when": "16.10.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35447": {
 "when": "16.10.2026 16:00",
 "status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35444": {
+"when": "16.10.2026 16:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35448": {
 "when": "16.10.2026 16:30",
@@ -111,8 +106,8 @@
 },
 "35449": {
 "when": "16.10.2026 17:00",
-"status": "mind",
-"title": "(S+P) Longe"
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35450": {
 "when": "16.10.2026 17:00",
@@ -1868,5 +1863,10 @@
 "when": "12.11.2026 20:00",
 "status": "mind",
 "title": "(S+P) Dressur 2+3"
+},
+"35833": {
+"when": "13.11.2026 11:00",
+"status": "mind",
+"title": "(S+P) Hausfrauen Stangentraining"
 }
 }
