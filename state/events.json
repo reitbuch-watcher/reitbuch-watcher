@@ -81,7 +81,7 @@
 },
 "35458": {
 "when": "16.10.2026 19:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "35459": {
@@ -106,7 +106,7 @@
 },
 "35468": {
 "when": "17.10.2026 17:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35469": {
@@ -1843,5 +1843,10 @@
 "when": "13.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35839": {
+"when": "13.11.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
 }
