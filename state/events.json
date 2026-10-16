@@ -36,22 +36,22 @@
 },
 "35449": {
 "when": "16.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35450": {
 "when": "16.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35451": {
 "when": "16.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35452": {
 "when": "16.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35453": {
@@ -471,7 +471,7 @@
 },
 "35543": {
 "when": "23.10.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35545": {
@@ -511,7 +511,7 @@
 },
 "35553": {
 "when": "23.10.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35554": {
@@ -976,7 +976,7 @@
 },
 "35650": {
 "when": "30.10.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35651": {
@@ -1026,7 +1026,7 @@
 },
 "35660": {
 "when": "30.10.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35661": {
