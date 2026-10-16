@@ -371,7 +371,7 @@
 },
 "35521": {
 "when": "21.10.2026 20:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
 },
 "35522": {
@@ -1051,7 +1051,7 @@
 },
 "35665": {
 "when": "31.10.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35666": {
@@ -1843,10 +1843,5 @@
 "when": "13.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35839": {
-"when": "13.11.2026 16:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
 }
