@@ -36,7 +36,7 @@
 },
 "35471": {
 "when": "17.10.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35472": {
@@ -163,6 +163,16 @@
 "when": "18.10.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
+},
+"36000": {
+"when": "19.10.2026 18:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
+"36001": {
+"when": "19.10.2026 18:30",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35497": {
 "when": "19.10.2026 19:00",
@@ -1813,15 +1823,5 @@
 "when": "13.11.2026 19:00",
 "status": "mind",
 "title": "(S+P) Dressur 2+3"
-},
-"35850": {
-"when": "13.11.2026 19:00",
-"status": "mind",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35851": {
-"when": "14.11.2026 10:00",
-"status": "free",
-"title": "(S) Dressur 1 (Anfänger)"
 }
 }
