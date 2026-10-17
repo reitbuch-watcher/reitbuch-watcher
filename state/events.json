@@ -536,7 +536,7 @@
 },
 "35576": {
 "when": "25.10.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35577": {
@@ -1818,10 +1818,5 @@
 "when": "13.11.2026 19:00",
 "status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35851": {
-"when": "14.11.2026 10:00",
-"status": "free",
-"title": "(S) Dressur 1 (Anfänger)"
 }
 }
