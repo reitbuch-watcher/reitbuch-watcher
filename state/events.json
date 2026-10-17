@@ -1,89 +1,4 @@
 {
-"35441": {
-"when": "16.10.2026 11:00",
-"status": "resv",
-"title": "(S+P) Hausfrauen Stangentraining"
-},
-"35443": {
-"when": "16.10.2026 15:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35445": {
-"when": "16.10.2026 15:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35442": {
-"when": "16.10.2026 16:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35447": {
-"when": "16.10.2026 16:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35444": {
-"when": "16.10.2026 16:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35448": {
-"when": "16.10.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35449": {
-"when": "16.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35450": {
-"when": "16.10.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35451": {
-"when": "16.10.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35452": {
-"when": "16.10.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35453": {
-"when": "16.10.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35454": {
-"when": "16.10.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35455": {
-"when": "16.10.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35456": {
-"when": "16.10.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35457": {
-"when": "16.10.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35458": {
-"when": "16.10.2026 19:00",
-"status": "resv",
-"title": "(S+P) Dressur 2+3"
-},
 "35459": {
 "when": "17.10.2026 10:00",
 "status": "free",
@@ -1818,5 +1733,110 @@
 "when": "13.11.2026 11:00",
 "status": "mind",
 "title": "(S+P) Hausfrauen Stangentraining"
+},
+"35834": {
+"when": "13.11.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35835": {
+"when": "13.11.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35836": {
+"when": "13.11.2026 15:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35837": {
+"when": "13.11.2026 15:30",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35838": {
+"when": "13.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35839": {
+"when": "13.11.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35840": {
+"when": "13.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35841": {
+"when": "13.11.2026 17:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35842": {
+"when": "13.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35843": {
+"when": "13.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35844": {
+"when": "13.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35845": {
+"when": "13.11.2026 18:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35846": {
+"when": "13.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35847": {
+"when": "13.11.2026 18:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35848": {
+"when": "13.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35849": {
+"when": "13.11.2026 19:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"35850": {
+"when": "13.11.2026 19:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35851": {
+"when": "14.11.2026 10:00",
+"status": "free",
+"title": "(S) Dressur 1 (Anfänger)"
+},
+"35852": {
+"when": "14.11.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35853": {
+"when": "14.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"35854": {
+"when": "14.11.2026 12:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
 }
 }
