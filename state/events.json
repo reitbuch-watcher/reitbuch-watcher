@@ -21,7 +21,7 @@
 },
 "35468": {
 "when": "17.10.2026 17:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35469": {
@@ -41,12 +41,12 @@
 },
 "35472": {
 "when": "18.10.2026 10:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35999": {
 "when": "18.10.2026 11:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35474": {
@@ -86,7 +86,7 @@
 },
 "35481": {
 "when": "18.10.2026 17:00",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35482": {
@@ -1818,5 +1818,10 @@
 "when": "13.11.2026 19:00",
 "status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35851": {
+"when": "14.11.2026 10:00",
+"status": "free",
+"title": "(S) Dressur 1 (Anfänger)"
 }
 }
