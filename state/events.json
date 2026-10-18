@@ -491,7 +491,7 @@
 },
 "35573": {
 "when": "25.10.2026 14:15",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35574": {
@@ -1001,7 +1001,7 @@
 },
 "35681": {
 "when": "03.11.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35682": {
@@ -1341,7 +1341,7 @@
 },
 "35747": {
 "when": "08.11.2026 10:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35748": {
@@ -1848,5 +1848,15 @@
 "when": "14.11.2026 19:00",
 "status": "mind",
 "title": "(P) freies Springen (ohne Trainer)"
+},
+"35863": {
+"when": "14.11.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35864": {
+"when": "15.11.2026 10:00",
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 }
 }
