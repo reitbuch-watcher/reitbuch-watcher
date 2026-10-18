@@ -16,7 +16,7 @@
 },
 "35475": {
 "when": "18.10.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35476": {
@@ -1146,7 +1146,7 @@
 },
 "35710": {
 "when": "05.11.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35711": {
