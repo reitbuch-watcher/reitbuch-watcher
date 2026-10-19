@@ -46,12 +46,12 @@
 },
 "35504": {
 "when": "20.10.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35505": {
 "when": "20.10.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35506": {
@@ -256,7 +256,7 @@
 },
 "35549": {
 "when": "23.10.2026 18:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35550": {
@@ -311,7 +311,7 @@
 },
 "35561": {
 "when": "24.10.2026 15:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Stangentraining"
 },
 "35562": {
@@ -476,7 +476,7 @@
 },
 "35598": {
 "when": "26.10.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35599": {
@@ -1868,5 +1868,10 @@
 "when": "17.11.2026 11:00",
 "status": "wait",
 "title": "(S+P) Hausfrauen Dressur"
+},
+"35902": {
+"when": "17.11.2026 12:00",
+"status": "mind",
+"title": "Beritt mit Vor- und Nachbereitung"
 }
 }
