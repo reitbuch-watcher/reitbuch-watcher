@@ -316,7 +316,7 @@
 },
 "35563": {
 "when": "24.10.2026 17:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35564": {
@@ -1858,10 +1858,5 @@
 "when": "16.11.2026 19:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
-},
-"35901": {
-"when": "17.11.2026 11:00",
-"status": "wait",
-"title": "(S+P) Hausfrauen Dressur"
 }
 }
