@@ -61,7 +61,7 @@
 },
 "35507": {
 "when": "20.10.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35508": {
@@ -176,7 +176,7 @@
 },
 "35532": {
 "when": "22.10.2026 19:00",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35533": {
@@ -1858,5 +1858,10 @@
 "when": "16.11.2026 19:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
+},
+"35901": {
+"when": "17.11.2026 11:00",
+"status": "wait",
+"title": "(S+P) Hausfrauen Dressur"
 }
 }
