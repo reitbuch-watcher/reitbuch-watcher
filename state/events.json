@@ -6,17 +6,17 @@
 },
 "36000": {
 "when": "19.10.2026 18:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "35497": {
 "when": "19.10.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "36001": {
 "when": "19.10.2026 18:30",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "35499": {
@@ -1766,7 +1766,7 @@
 },
 "35870": {
 "when": "15.11.2026 14:15",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35871": {
