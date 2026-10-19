@@ -21,7 +21,7 @@
 },
 "35499": {
 "when": "20.10.2026 11:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "35500": {
@@ -201,7 +201,7 @@
 },
 "35536": {
 "when": "23.10.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35537": {
