@@ -1,129 +1,4 @@
 {
-"35472": {
-"when": "18.10.2026 10:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35999": {
-"when": "18.10.2026 11:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35474": {
-"when": "18.10.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35475": {
-"when": "18.10.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35476": {
-"when": "18.10.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35477": {
-"when": "18.10.2026 13:30",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35478": {
-"when": "18.10.2026 14:15",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35479": {
-"when": "18.10.2026 15:00",
-"status": "resv",
-"title": "Unterricht: Umgang mit dem Pferd"
-},
-"35480": {
-"when": "18.10.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35481": {
-"when": "18.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35482": {
-"when": "18.10.2026 17:30",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35483": {
-"when": "18.10.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35998": {
-"when": "18.10.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35484": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
-},
-"35485": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
-},
-"35486": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
-},
-"35487": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
-},
-"35488": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35489": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35490": {
-"when": "18.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35491": {
-"when": "18.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
-},
-"35492": {
-"when": "18.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
-},
-"35493": {
-"when": "18.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
-},
-"35494": {
-"when": "18.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
-"35495": {
-"when": "18.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
 "36000": {
 "when": "19.10.2026 18:00",
 "status": "full",
@@ -441,7 +316,7 @@
 },
 "35563": {
 "when": "24.10.2026 17:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35564": {
@@ -1858,5 +1733,135 @@
 "when": "15.11.2026 10:00",
 "status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35865": {
+"when": "15.11.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35866": {
+"when": "15.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35867": {
+"when": "15.11.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35868": {
+"when": "15.11.2026 13:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"35869": {
+"when": "15.11.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35870": {
+"when": "15.11.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"35871": {
+"when": "15.11.2026 15:00",
+"status": "mind",
+"title": "Unterricht: Umgang mit dem Pferd"
+},
+"35872": {
+"when": "15.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35873": {
+"when": "15.11.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35874": {
+"when": "15.11.2026 17:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35875": {
+"when": "15.11.2026 18:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35876": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
+},
+"35877": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
+},
+"35878": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
+},
+"35879": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
+},
+"35880": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
+},
+"35881": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
+},
+"35882": {
+"when": "15.11.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
+},
+"35883": {
+"when": "15.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
+},
+"35884": {
+"when": "15.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
+},
+"35885": {
+"when": "15.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
+},
+"35886": {
+"when": "15.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
+},
+"35887": {
+"when": "15.11.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
+},
+"35899": {
+"when": "16.11.2026 19:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35900": {
+"when": "16.11.2026 19:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35901": {
+"when": "17.11.2026 11:00",
+"status": "wait",
+"title": "(S+P) Hausfrauen Dressur"
 }
 }
