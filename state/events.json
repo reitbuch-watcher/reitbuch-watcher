@@ -21,7 +21,7 @@
 },
 "35503": {
 "when": "20.10.2026 14:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35504": {
@@ -141,12 +141,12 @@
 },
 "35526": {
 "when": "22.10.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35527": {
 "when": "22.10.2026 13:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35528": {
@@ -1858,10 +1858,5 @@
 "when": "17.11.2026 13:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"35905": {
-"when": "17.11.2026 14:00",
-"status": "wait",
-"title": "(S) Longen- und Einzelstunden Anfänger"
 }
 }
