@@ -11,17 +11,17 @@
 },
 "35514": {
 "when": "21.10.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35515": {
 "when": "21.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35516": {
 "when": "21.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35517": {
@@ -36,7 +36,7 @@
 },
 "35518": {
 "when": "21.10.2026 18:00",
-"status": "free",
+"status": "wait",
 "title": "(P) Cavaletti und Springen"
 },
 "35519": {
@@ -93,11 +93,6 @@
 "when": "22.10.2026 19:00",
 "status": "wait",
 "title": "(S+P) Springen"
-},
-"35533": {
-"when": "22.10.2026 19:00",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
 },
 "35536": {
 "when": "23.10.2026 11:00",
@@ -201,7 +196,7 @@
 },
 "35558": {
 "when": "24.10.2026 13:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35464": {
@@ -241,7 +236,7 @@
 },
 "35567": {
 "when": "25.10.2026 10:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35568": {
@@ -1131,7 +1126,7 @@
 },
 "35751": {
 "when": "08.11.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35752": {
@@ -1888,5 +1883,15 @@
 "when": "19.11.2026 13:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"35929": {
+"when": "19.11.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"35930": {
+"when": "19.11.2026 14:00",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
 }
 }
