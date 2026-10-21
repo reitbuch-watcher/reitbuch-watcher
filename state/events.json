@@ -1,4 +1,9 @@
 {
+"36106": {
+"when": "21.10.2026 11:00",
+"status": "resv",
+"title": "(S) Beritt Schulpferd"
+},
 "35513": {
 "when": "21.10.2026 16:00",
 "status": "mind",
@@ -106,7 +111,7 @@
 },
 "35535": {
 "when": "22.10.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "35536": {
@@ -1104,11 +1109,6 @@
 "status": "mind",
 "title": "(S+P) Cavaletti"
 },
-"35743": {
-"when": "07.11.2026 17:00",
-"status": "mind",
-"title": "(S+P) Springen"
-},
 "35744": {
 "when": "07.11.2026 18:00",
 "status": "mind",
@@ -1604,11 +1604,6 @@
 "status": "mind",
 "title": "(S) Schnupper-Reitstunde"
 },
-"35857": {
-"when": "14.11.2026 14:00",
-"status": "mind",
-"title": "(P) Springen"
-},
 "35858": {
 "when": "14.11.2026 15:00",
 "status": "free",
@@ -1898,5 +1893,10 @@
 "when": "19.11.2026 12:00",
 "status": "mind",
 "title": "(P) Einzelstunde"
+},
+"35927": {
+"when": "19.11.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
 }
 }
