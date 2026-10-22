@@ -1501,7 +1501,7 @@
 },
 "35829": {
 "when": "12.11.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35830": {
@@ -1868,10 +1868,5 @@
 "when": "17.11.2026 19:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35915": {
-"when": "18.11.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
