@@ -21,12 +21,17 @@
 },
 "35526": {
 "when": "22.10.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
+},
+"36135": {
+"when": "22.10.2026 13:30",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
 },
 "35527": {
 "when": "22.10.2026 13:30",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35528": {
@@ -976,7 +981,7 @@
 },
 "35712": {
 "when": "05.11.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35713": {
@@ -1903,10 +1908,5 @@
 "when": "18.11.2026 19:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35923": {
-"when": "18.11.2026 20:00",
-"status": "free",
-"title": "(S+P) Stangentraining"
 }
 }
