@@ -166,7 +166,7 @@
 },
 "35563": {
 "when": "24.10.2026 17:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35564": {
@@ -701,7 +701,7 @@
 },
 "36108": {
 "when": "01.11.2026 11:00",
-"status": "free",
+"status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36109": {
@@ -1021,7 +1021,7 @@
 },
 "35720": {
 "when": "06.11.2026 15:30",
-"status": "wait",
+"status": "full",
 "title": "(S+P) Einzelstunde"
 },
 "35721": {
@@ -1141,7 +1141,7 @@
 },
 "35742": {
 "when": "07.11.2026 16:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Cavaletti"
 },
 "35744": {
@@ -1561,7 +1561,7 @@
 },
 "35841": {
 "when": "13.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35842": {
@@ -1873,20 +1873,5 @@
 "when": "18.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35916": {
-"when": "18.11.2026 17:00",
-"status": "mind",
-"title": "(P) Springen Einzel Jaroslav Pikolon"
-},
-"35917": {
-"when": "18.11.2026 17:00",
-"status": "wait",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35918": {
-"when": "18.11.2026 17:30",
-"status": "mind",
-"title": "(P) Springen Einzel Jaroslav Pikolon"
 }
 }
