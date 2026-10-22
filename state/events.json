@@ -26,7 +26,7 @@
 },
 "36135": {
 "when": "22.10.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35527": {
@@ -36,7 +36,7 @@
 },
 "35528": {
 "when": "22.10.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35532": {
@@ -696,7 +696,7 @@
 },
 "36107": {
 "when": "01.11.2026 10:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36108": {
@@ -1006,7 +1006,7 @@
 },
 "35717": {
 "when": "06.11.2026 15:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35718": {
@@ -1071,7 +1071,7 @@
 },
 "35730": {
 "when": "06.11.2026 18:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35731": {
@@ -1541,7 +1541,7 @@
 },
 "35837": {
 "when": "13.11.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35838": {
@@ -1901,12 +1901,7 @@
 },
 "35921": {
 "when": "18.11.2026 18:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"35922": {
-"when": "18.11.2026 19:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
