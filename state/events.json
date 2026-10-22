@@ -121,7 +121,7 @@
 },
 "35554": {
 "when": "24.10.2026 10:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35555": {
@@ -1923,5 +1923,10 @@
 "when": "19.11.2026 12:00",
 "status": "mind",
 "title": "(P) Einzelstunde"
+},
+"35927": {
+"when": "19.11.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
 }
 }
