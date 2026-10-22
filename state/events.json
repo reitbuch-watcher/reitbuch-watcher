@@ -111,7 +111,7 @@
 },
 "35552": {
 "when": "23.10.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Dressur 2+3"
 },
 "35553": {
@@ -1908,10 +1908,5 @@
 "when": "18.11.2026 20:00",
 "status": "free",
 "title": "(S+P) Stangentraining"
-},
-"35924": {
-"when": "19.11.2026 11:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 }
 }
