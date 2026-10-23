@@ -1656,7 +1656,7 @@
 },
 "35871": {
 "when": "15.11.2026 15:00",
-"status": "mind",
+"status": "free",
 "title": "Unterricht: Umgang mit dem Pferd"
 },
 "35872": {
@@ -1878,10 +1878,5 @@
 "when": "19.11.2026 12:00",
 "status": "mind",
 "title": "(P) Einzelstunde"
-},
-"35927": {
-"when": "19.11.2026 12:30",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
 }
 }
