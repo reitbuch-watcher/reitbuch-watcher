@@ -4,6 +4,11 @@
 "status": "resv",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
+"36136": {
+"when": "23.10.2026 13:30",
+"status": "resv",
+"title": "Beritt"
+},
 "35537": {
 "when": "23.10.2026 15:00",
 "status": "resv",
@@ -36,12 +41,12 @@
 },
 "35545": {
 "when": "23.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35547": {
 "when": "23.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35548": {
