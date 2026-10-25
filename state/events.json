@@ -141,8 +141,8 @@
 },
 "35599": {
 "when": "26.10.2026 19:15",
-"status": "mind",
-"title": "(P) Springtraining mit Patrick Kühn"
+"status": "wait",
+"title": "(P) Springen Einzel Patrick Kühn"
 },
 "35600": {
 "when": "26.10.2026 19:30",
@@ -150,9 +150,9 @@
 "title": "(P) Einzelstunde"
 },
 "35595": {
-"when": "26.10.2026 20:00",
-"status": "mind",
-"title": "(P) Springtraining mit Patrick Kühn"
+"when": "26.10.2026 19:45",
+"status": "wait",
+"title": "(P) Springen Einzel Patrick Kühn"
 },
 "35601": {
 "when": "27.10.2026 11:00",
@@ -626,7 +626,7 @@
 },
 "35678": {
 "when": "02.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35679": {
@@ -1121,7 +1121,7 @@
 },
 "35790": {
 "when": "09.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35785": {
@@ -1611,7 +1611,7 @@
 },
 "35900": {
 "when": "16.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35901": {
