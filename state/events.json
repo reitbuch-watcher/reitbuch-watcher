@@ -1451,7 +1451,7 @@
 },
 "35856": {
 "when": "14.11.2026 13:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35858": {
@@ -1903,10 +1903,5 @@
 "when": "21.11.2026 12:00",
 "status": "wait",
 "title": "(S+P) Longe"
-},
-"35959": {
-"when": "21.11.2026 12:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
 }
 }
