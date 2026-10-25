@@ -46,7 +46,7 @@
 },
 "35576": {
 "when": "25.10.2026 16:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35577": {
@@ -341,7 +341,7 @@
 },
 "35639": {
 "when": "29.10.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35640": {
@@ -451,7 +451,7 @@
 },
 "35661": {
 "when": "31.10.2026 10:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35662": {
@@ -1781,7 +1781,7 @@
 },
 "35934": {
 "when": "19.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "35935": {
@@ -1893,5 +1893,10 @@
 "when": "21.11.2026 10:00",
 "status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
+},
+"35957": {
+"when": "21.11.2026 11:00",
+"status": "free",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
