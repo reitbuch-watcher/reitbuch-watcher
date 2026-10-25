@@ -31,12 +31,12 @@
 },
 "35573": {
 "when": "25.10.2026 14:15",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35574": {
 "when": "25.10.2026 15:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Longe"
 },
 "35575": {
@@ -1898,10 +1898,5 @@
 "when": "21.11.2026 11:00",
 "status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35958": {
-"when": "21.11.2026 12:00",
-"status": "wait",
-"title": "(S+P) Longe"
 }
 }
