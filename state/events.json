@@ -1,7 +1,7 @@
 {
 "36232": {
 "when": "26.10.2026 17:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "36233": {
@@ -606,7 +606,7 @@
 },
 "35698": {
 "when": "04.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(P) Cavaletti und Springen"
 },
 "35699": {
@@ -666,7 +666,7 @@
 },
 "35710": {
 "when": "05.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35711": {
@@ -1813,10 +1813,5 @@
 "when": "21.11.2026 16:00",
 "status": "mind",
 "title": "(S+P) Cavaletti"
-},
-"35965": {
-"when": "21.11.2026 17:00",
-"status": "mind",
-"title": "(S+P) Springen"
 }
 }
