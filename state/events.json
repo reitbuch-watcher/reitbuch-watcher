@@ -1,4 +1,14 @@
 {
+"36232": {
+"when": "26.10.2026 17:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
+"36233": {
+"when": "26.10.2026 17:30",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
 "35596": {
 "when": "26.10.2026 17:45",
 "status": "wait",
@@ -99,14 +109,9 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
-"35615": {
-"when": "27.10.2026 20:15",
-"status": "mind",
-"title": "(P) Cavaletti und Springen"
-},
 "35616": {
 "when": "28.10.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35617": {
