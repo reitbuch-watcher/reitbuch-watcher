@@ -266,7 +266,7 @@
 },
 "35649": {
 "when": "30.10.2026 16:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35650": {
@@ -561,7 +561,7 @@
 },
 "35690": {
 "when": "03.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35691": {
@@ -706,7 +706,7 @@
 },
 "35719": {
 "when": "06.11.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35720": {
@@ -1126,7 +1126,7 @@
 },
 "35816": {
 "when": "11.11.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35817": {
@@ -1296,7 +1296,7 @@
 },
 "35850": {
 "when": "13.11.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35851": {
@@ -1696,7 +1696,7 @@
 },
 "35942": {
 "when": "20.11.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35943": {
@@ -1813,10 +1813,5 @@
 "when": "21.11.2026 17:00",
 "status": "mind",
 "title": "(S+P) Springen"
-},
-"35966": {
-"when": "21.11.2026 18:00",
-"status": "mind",
-"title": "(P) freies Springen (ohne Trainer)"
 }
 }
