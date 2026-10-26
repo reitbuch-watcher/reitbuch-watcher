@@ -6,12 +6,12 @@
 },
 "36233": {
 "when": "26.10.2026 17:30",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "35596": {
 "when": "26.10.2026 17:45",
-"status": "wait",
+"status": "resv",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "35597": {
@@ -96,7 +96,7 @@
 },
 "35612": {
 "when": "27.10.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35613": {
@@ -151,7 +151,7 @@
 },
 "35625": {
 "when": "28.10.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35626": {
@@ -726,7 +726,7 @@
 },
 "35722": {
 "when": "06.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35723": {
@@ -1246,7 +1246,7 @@
 },
 "35839": {
 "when": "13.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35840": {
