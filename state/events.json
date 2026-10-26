@@ -1,129 +1,4 @@
 {
-"35567": {
-"when": "25.10.2026 10:45",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35568": {
-"when": "25.10.2026 11:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35569": {
-"when": "25.10.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35570": {
-"when": "25.10.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35571": {
-"when": "25.10.2026 13:00",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35572": {
-"when": "25.10.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35573": {
-"when": "25.10.2026 14:15",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35574": {
-"when": "25.10.2026 15:00",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35575": {
-"when": "25.10.2026 15:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35576": {
-"when": "25.10.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35577": {
-"when": "25.10.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35578": {
-"when": "25.10.2026 17:30",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35579": {
-"when": "25.10.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35584": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35585": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35586": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35580": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
-},
-"35581": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
-},
-"35582": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
-},
-"35583": {
-"when": "25.10.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
-},
-"35587": {
-"when": "25.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
-},
-"35588": {
-"when": "25.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
-"35589": {
-"when": "25.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
-},
-"35590": {
-"when": "25.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
-},
-"35591": {
-"when": "25.10.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
 "35596": {
 "when": "26.10.2026 17:45",
 "status": "wait",
@@ -1878,5 +1753,90 @@
 "when": "20.11.2026 18:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35954": {
+"when": "20.11.2026 19:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"35955": {
+"when": "20.11.2026 19:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"35956": {
+"when": "21.11.2026 10:00",
+"status": "wait",
+"title": "(S) Dressur 1 (Anfänger)"
+},
+"35957": {
+"when": "21.11.2026 11:00",
+"status": "free",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35958": {
+"when": "21.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"35959": {
+"when": "21.11.2026 12:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"35960": {
+"when": "21.11.2026 13:00",
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35961": {
+"when": "21.11.2026 13:45",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"35962": {
+"when": "21.11.2026 14:00",
+"status": "mind",
+"title": "(P) Springen"
+},
+"35963": {
+"when": "21.11.2026 15:00",
+"status": "free",
+"title": "(S+P) Stangentraining"
+},
+"35964": {
+"when": "21.11.2026 16:00",
+"status": "mind",
+"title": "(S+P) Cavaletti"
+},
+"35965": {
+"when": "21.11.2026 17:00",
+"status": "mind",
+"title": "(S+P) Springen"
+},
+"35966": {
+"when": "21.11.2026 18:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35967": {
+"when": "21.11.2026 19:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35968": {
+"when": "21.11.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35969": {
+"when": "22.11.2026 10:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"35970": {
+"when": "22.11.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
