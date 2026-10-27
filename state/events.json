@@ -16,12 +16,12 @@
 },
 "35604": {
 "when": "27.10.2026 13:30",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35605": {
 "when": "27.10.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35606": {
@@ -56,7 +56,7 @@
 },
 "35612": {
 "when": "27.10.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35613": {
@@ -491,7 +491,7 @@
 },
 "35692": {
 "when": "03.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35693": {
@@ -991,7 +991,7 @@
 },
 "35804": {
 "when": "10.11.2026 19:30",
-"status": "full",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35805": {
@@ -1476,7 +1476,7 @@
 },
 "35914": {
 "when": "17.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35915": {
@@ -1793,5 +1793,10 @@
 "when": "22.11.2026 15:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"35978": {
+"when": "22.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
