@@ -1,44 +1,4 @@
 {
-"36232": {
-"when": "26.10.2026 17:00",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"36233": {
-"when": "26.10.2026 17:30",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"35596": {
-"when": "26.10.2026 17:45",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35597": {
-"when": "26.10.2026 18:30",
-"status": "resv",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"35598": {
-"when": "26.10.2026 19:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35599": {
-"when": "26.10.2026 19:15",
-"status": "resv",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
-"35600": {
-"when": "26.10.2026 19:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35595": {
-"when": "26.10.2026 19:45",
-"status": "resv",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
 "35601": {
 "when": "27.10.2026 11:00",
 "status": "wait",
@@ -1806,7 +1766,37 @@
 },
 "35963": {
 "when": "21.11.2026 15:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
+},
+"35964": {
+"when": "21.11.2026 16:00",
+"status": "mind",
+"title": "(S+P) Cavaletti"
+},
+"35965": {
+"when": "21.11.2026 17:00",
+"status": "mind",
+"title": "(S+P) Springen"
+},
+"35966": {
+"when": "21.11.2026 18:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35967": {
+"when": "21.11.2026 19:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35968": {
+"when": "21.11.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"35969": {
+"when": "22.11.2026 10:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 }
 }
