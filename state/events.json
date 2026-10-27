@@ -571,7 +571,7 @@
 },
 "35708": {
 "when": "05.11.2026 14:00",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35709": {
@@ -1798,5 +1798,10 @@
 "when": "22.11.2026 16:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"35979": {
+"when": "22.11.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 }
 }
