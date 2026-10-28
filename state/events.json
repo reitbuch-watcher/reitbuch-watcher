@@ -186,7 +186,7 @@
 },
 "35663": {
 "when": "31.10.2026 12:00",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35664": {
@@ -1843,5 +1843,10 @@
 "when": "24.11.2026 12:00",
 "status": "mind",
 "title": "Beritt mit Vor- und Nachbereitung"
+},
+"36010": {
+"when": "24.11.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 }
 }
