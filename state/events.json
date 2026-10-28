@@ -51,7 +51,7 @@
 },
 "35625": {
 "when": "28.10.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35628": {
@@ -209,20 +209,20 @@
 "status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
+"35670": {
+"when": "31.10.2026 14:00",
+"status": "free",
+"title": "(P) Springen"
+},
 "35668": {
 "when": "31.10.2026 15:00",
-"status": "wait",
+"status": "full",
 "title": "(S+P) Stangentraining"
 },
 "35669": {
 "when": "31.10.2026 16:00",
 "status": "wait",
 "title": "(S+P) Cavaletti"
-},
-"35670": {
-"when": "31.10.2026 17:00",
-"status": "wait",
-"title": "(S+P) Springen"
 },
 "35671": {
 "when": "31.10.2026 18:00",
