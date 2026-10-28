@@ -1,7 +1,7 @@
 {
 "35616": {
 "when": "28.10.2026 16:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35626": {
@@ -11,12 +11,12 @@
 },
 "35627": {
 "when": "28.10.2026 16:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35617": {
 "when": "28.10.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35618": {
