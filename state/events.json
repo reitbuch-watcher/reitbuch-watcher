@@ -311,7 +311,7 @@
 },
 "36123": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
 },
 "36124": {
@@ -341,7 +341,7 @@
 },
 "36129": {
 "when": "01.11.2026 21:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 },
 "36130": {
@@ -736,7 +736,7 @@
 },
 "35753": {
 "when": "08.11.2026 14:15",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35754": {
