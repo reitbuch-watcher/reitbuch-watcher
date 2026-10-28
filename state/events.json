@@ -126,8 +126,13 @@
 },
 "35642": {
 "when": "29.10.2026 20:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Dressur 2+3"
+},
+"36238": {
+"when": "29.10.2026 20:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
 },
 "35643": {
 "when": "30.10.2026 11:00",
@@ -1838,10 +1843,5 @@
 "when": "24.11.2026 11:00",
 "status": "wait",
 "title": "(S+P) Hausfrauen Dressur"
-},
-"36009": {
-"when": "24.11.2026 12:00",
-"status": "wait",
-"title": "Beritt mit Vor- und Nachbereitung"
 }
 }
