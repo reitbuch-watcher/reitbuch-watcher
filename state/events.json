@@ -1,64 +1,4 @@
 {
-"35616": {
-"when": "28.10.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35626": {
-"when": "28.10.2026 16:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35627": {
-"when": "28.10.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35617": {
-"when": "28.10.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35618": {
-"when": "28.10.2026 17:00",
-"status": "resv",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35619": {
-"when": "28.10.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35620": {
-"when": "28.10.2026 17:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35621": {
-"when": "28.10.2026 18:00",
-"status": "resv",
-"title": "(P) Cavaletti und Springen"
-},
-"35622": {
-"when": "28.10.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35624": {
-"when": "28.10.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35625": {
-"when": "28.10.2026 19:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35628": {
-"when": "28.10.2026 20:00",
-"status": "resv",
-"title": "(S+P) Stangentraining"
-},
 "35629": {
 "when": "29.10.2026 11:00",
 "status": "wait",
@@ -151,7 +91,7 @@
 },
 "35648": {
 "when": "30.10.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35651": {
@@ -171,7 +111,7 @@
 },
 "35657": {
 "when": "30.10.2026 18:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35659": {
@@ -526,7 +466,7 @@
 },
 "35712": {
 "when": "05.11.2026 19:00",
-"status": "wait",
+"status": "full",
 "title": "(S+P) Springen"
 },
 "35713": {
@@ -1843,5 +1783,60 @@
 "when": "24.11.2026 11:00",
 "status": "wait",
 "title": "(S+P) Hausfrauen Dressur"
+},
+"36009": {
+"when": "24.11.2026 12:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"36010": {
+"when": "24.11.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36011": {
+"when": "24.11.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36012": {
+"when": "24.11.2026 14:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36013": {
+"when": "24.11.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36014": {
+"when": "24.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36015": {
+"when": "24.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36016": {
+"when": "24.11.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36017": {
+"when": "24.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36018": {
+"when": "24.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36019": {
+"when": "24.11.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 3 (Aufbau)"
 }
 }
