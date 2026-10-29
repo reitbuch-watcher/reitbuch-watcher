@@ -356,7 +356,7 @@
 },
 "35690": {
 "when": "03.11.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35691": {
@@ -1656,7 +1656,7 @@
 },
 "35975": {
 "when": "22.11.2026 14:15",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35976": {
@@ -1823,5 +1823,10 @@
 "when": "24.11.2026 18:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36017": {
+"when": "24.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
 }
 }
