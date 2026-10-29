@@ -36,12 +36,12 @@
 },
 "35636": {
 "when": "29.10.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35637": {
 "when": "29.10.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36236": {
@@ -611,7 +611,7 @@
 },
 "35739": {
 "when": "07.11.2026 13:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35740": {
