@@ -1,7 +1,7 @@
 {
 "35643": {
 "when": "30.10.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35644": {
@@ -1051,7 +1051,7 @@
 },
 "35858": {
 "when": "14.11.2026 15:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35859": {
@@ -1831,6 +1831,11 @@
 },
 "36033": {
 "when": "25.11.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36034": {
+"when": "25.11.2026 19:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 }
