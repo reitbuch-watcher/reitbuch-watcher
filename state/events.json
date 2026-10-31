@@ -336,7 +336,7 @@
 },
 "35711": {
 "when": "05.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35712": {
@@ -526,7 +526,7 @@
 },
 "35748": {
 "when": "08.11.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35749": {
@@ -1853,15 +1853,5 @@
 "when": "26.11.2026 19:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36048": {
-"when": "26.11.2026 19:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36049": {
-"when": "26.11.2026 20:00",
-"status": "mind",
-"title": "(S+P) Dressur 2+3"
 }
 }
