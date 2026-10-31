@@ -26,12 +26,12 @@
 },
 "35666": {
 "when": "31.10.2026 13:45",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35670": {
 "when": "31.10.2026 14:00",
-"status": "free",
+"status": "resv",
 "title": "(P) Springen"
 },
 "35668": {
@@ -656,7 +656,7 @@
 },
 "35790": {
 "when": "09.11.2026 19:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "35785": {
