@@ -11,32 +11,32 @@
 },
 "36109": {
 "when": "01.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36110": {
 "when": "01.11.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36111": {
 "when": "01.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36112": {
 "when": "01.11.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36131": {
 "when": "01.11.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35995": {
 "when": "01.11.2026 16:00",
-"status": "full",
+"status": "resv",
 "title": "Übung Weihnachtsfeier"
 },
 "36119": {
@@ -936,7 +936,7 @@
 },
 "35859": {
 "when": "14.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35860": {
