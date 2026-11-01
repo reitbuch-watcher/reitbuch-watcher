@@ -1,72 +1,12 @@
 {
-"35661": {
-"when": "31.10.2026 10:00",
-"status": "resv",
-"title": "(S) Dressur 1 (Anfänger)"
-},
-"35662": {
-"when": "31.10.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35663": {
-"when": "31.10.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35664": {
-"when": "31.10.2026 12:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35665": {
-"when": "31.10.2026 13:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35666": {
-"when": "31.10.2026 13:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35670": {
-"when": "31.10.2026 14:00",
-"status": "resv",
-"title": "(P) Springen"
-},
-"35668": {
-"when": "31.10.2026 15:00",
-"status": "resv",
-"title": "(S+P) Stangentraining"
-},
-"35669": {
-"when": "31.10.2026 16:00",
-"status": "resv",
-"title": "(S+P) Cavaletti"
-},
-"35671": {
-"when": "31.10.2026 18:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35672": {
-"when": "31.10.2026 19:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35673": {
-"when": "31.10.2026 20:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
 "36107": {
 "when": "01.11.2026 10:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36108": {
 "when": "01.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36109": {
@@ -761,7 +701,7 @@
 },
 "35810": {
 "when": "11.11.2026 17:45",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35811": {
@@ -961,7 +901,7 @@
 },
 "35851": {
 "when": "14.11.2026 10:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35852": {
@@ -1863,5 +1803,100 @@
 "when": "27.11.2026 15:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"36052": {
+"when": "27.11.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36053": {
+"when": "27.11.2026 15:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36054": {
+"when": "27.11.2026 15:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36055": {
+"when": "27.11.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36056": {
+"when": "27.11.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36057": {
+"when": "27.11.2026 16:30",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36058": {
+"when": "27.11.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36059": {
+"when": "27.11.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36060": {
+"when": "27.11.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36061": {
+"when": "27.11.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36062": {
+"when": "27.11.2026 18:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36063": {
+"when": "27.11.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36064": {
+"when": "27.11.2026 18:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36065": {
+"when": "27.11.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36066": {
+"when": "27.11.2026 19:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"36067": {
+"when": "27.11.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36234": {
+"when": "28.11.2026 08:00",
+"status": "full",
+"title": "Kurs Sitzschulung (Nadja Eichholz)"
+},
+"36068": {
+"when": "28.11.2026 10:00",
+"status": "full",
+"title": "(S) Dressur 1 (Anfänger)"
+},
+"36069": {
+"when": "28.11.2026 11:00",
+"status": "free",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
