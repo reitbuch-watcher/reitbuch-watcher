@@ -41,62 +41,62 @@
 },
 "36119": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
 },
 "36120": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
 },
 "36121": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
 },
 "36122": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
 },
 "36123": {
 "when": "01.11.2026 20:00",
-"status": "free",
+"status": "resv",
 "title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
 },
 "36124": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
 },
 "36125": {
 "when": "01.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
 },
 "36126": {
 "when": "01.11.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
 },
 "36127": {
 "when": "01.11.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
 },
 "36128": {
 "when": "01.11.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
 },
 "36129": {
 "when": "01.11.2026 21:00",
-"status": "free",
+"status": "resv",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 },
 "36130": {
 "when": "01.11.2026 21:00",
-"status": "mind",
+"status": "resv",
 "title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
 },
 "35677": {
@@ -166,7 +166,7 @@
 },
 "35690": {
 "when": "03.11.2026 19:00",
-"status": "free",
+"status": "mind",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35691": {
@@ -1676,7 +1676,7 @@
 },
 "36026": {
 "when": "25.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36027": {
@@ -1898,5 +1898,10 @@
 "when": "28.11.2026 11:00",
 "status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36070": {
+"when": "28.11.2026 12:00",
+"status": "wait",
+"title": "(S+P) Longe"
 }
 }
