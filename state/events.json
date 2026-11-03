@@ -1,27 +1,12 @@
 {
-"35677": {
-"when": "02.11.2026 16:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"36239": {
-"when": "02.11.2026 16:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35678": {
-"when": "02.11.2026 17:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
 "35679": {
 "when": "03.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "35680": {
 "when": "03.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35681": {
@@ -99,6 +84,11 @@
 "status": "wait",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
+"36241": {
+"when": "04.11.2026 17:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
 "35697": {
 "when": "04.11.2026 17:45",
 "status": "wait",
@@ -110,14 +100,19 @@
 "title": "(S+P) Einzelstunde"
 },
 "35700": {
-"when": "04.11.2026 19:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+"when": "04.11.2026 19:30",
+"status": "full",
+"title": "(S+P) Einzelstunde"
 },
 "35701": {
 "when": "04.11.2026 20:00",
 "status": "free",
 "title": "(S+P) Stangentraining"
+},
+"36240": {
+"when": "04.11.2026 20:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35702": {
 "when": "05.11.2026 11:00",
@@ -166,7 +161,7 @@
 },
 "35711": {
 "when": "05.11.2026 18:00",
-"status": "free",
+"status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35712": {
@@ -186,7 +181,7 @@
 },
 "35715": {
 "when": "05.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "35716": {
@@ -226,7 +221,7 @@
 },
 "35723": {
 "when": "06.11.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35724": {
@@ -1883,10 +1878,5 @@
 "when": "29.11.2026 13:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36087": {
-"when": "29.11.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
 }
 }
