@@ -11,57 +11,57 @@
 },
 "35681": {
 "when": "03.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35682": {
 "when": "03.11.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35683": {
 "when": "03.11.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35684": {
 "when": "03.11.2026 16:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35685": {
 "when": "03.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35686": {
 "when": "03.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35688": {
 "when": "03.11.2026 18:00",
-"status": "full",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35689": {
 "when": "03.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35690": {
 "when": "03.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35691": {
 "when": "03.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35692": {
 "when": "03.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35693": {
@@ -69,20 +69,10 @@
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
-"35694": {
-"when": "04.11.2026 16:30",
-"status": "wait",
-"title": "(P) Springen Einzel Jaroslav Pikolon"
-},
 "35695": {
 "when": "04.11.2026 17:00",
 "status": "wait",
 "title": "Beritt mit Vor- und Nachbereitung"
-},
-"35696": {
-"when": "04.11.2026 17:00",
-"status": "wait",
-"title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "36241": {
 "when": "04.11.2026 17:00",
@@ -94,14 +84,39 @@
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 },
+"36244": {
+"when": "04.11.2026 17:45",
+"status": "wait",
+"title": "(P) Springen Einzel Jaroslav Pikolon"
+},
+"36243": {
+"when": "04.11.2026 18:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"35694": {
+"when": "04.11.2026 18:15",
+"status": "wait",
+"title": "(P) Springen Einzel Jaroslav Pikolon"
+},
 "35699": {
 "when": "04.11.2026 18:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 },
+"35696": {
+"when": "04.11.2026 18:45",
+"status": "wait",
+"title": "(P) Springen Einzel Jaroslav Pikolon"
+},
+"36242": {
+"when": "04.11.2026 19:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
 "35700": {
 "when": "04.11.2026 19:30",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35701": {
@@ -136,7 +151,7 @@
 },
 "35706": {
 "when": "05.11.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35707": {
@@ -156,7 +171,7 @@
 },
 "35710": {
 "when": "05.11.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35711": {
@@ -206,7 +221,7 @@
 },
 "35720": {
 "when": "06.11.2026 15:30",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35721": {
@@ -321,12 +336,12 @@
 },
 "35741": {
 "when": "07.11.2026 15:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35742": {
 "when": "07.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Cavaletti"
 },
 "35744": {
@@ -986,7 +1001,7 @@
 },
 "35901": {
 "when": "17.11.2026 11:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "35902": {
@@ -1476,7 +1491,7 @@
 },
 "36008": {
 "when": "24.11.2026 11:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "36009": {
@@ -1531,7 +1546,7 @@
 },
 "36019": {
 "when": "24.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "36020": {
@@ -1666,7 +1681,7 @@
 },
 "36046": {
 "when": "26.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "36047": {
@@ -1774,15 +1789,15 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
-"36234": {
-"when": "28.11.2026 08:00",
-"status": "full",
-"title": "Kurs Sitzschulung (Nadja Eichholz)"
-},
 "36068": {
 "when": "28.11.2026 10:00",
 "status": "full",
 "title": "(S) Dressur 1 (Anfänger)"
+},
+"36234": {
+"when": "28.11.2026 11:00",
+"status": "full",
+"title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
 "36069": {
 "when": "28.11.2026 11:00",
@@ -1819,6 +1834,11 @@
 "status": "wait",
 "title": "(S+P) Stangentraining"
 },
+"36245": {
+"when": "28.11.2026 15:45",
+"status": "full",
+"title": "Kurs Sitzschulung (Nadja Eichholz)"
+},
 "36076": {
 "when": "28.11.2026 16:00",
 "status": "mind",
@@ -1845,7 +1865,7 @@
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "36235": {
-"when": "29.11.2026 08:00",
+"when": "29.11.2026 09:00",
 "status": "full",
 "title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
@@ -1878,5 +1898,20 @@
 "when": "29.11.2026 13:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"36246": {
+"when": "29.11.2026 13:45",
+"status": "full",
+"title": "Kurs Sitzschulung (Nadja Eichholz)"
+},
+"36087": {
+"when": "29.11.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36088": {
+"when": "29.11.2026 15:00",
+"status": "mind",
+"title": "Unterricht: Umgang mit dem Pferd"
 }
 }
