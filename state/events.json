@@ -4,15 +4,15 @@
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
+"36243": {
+"when": "04.11.2026 16:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
 "35695": {
 "when": "04.11.2026 17:00",
 "status": "wait",
 "title": "Beritt mit Vor- und Nachbereitung"
-},
-"36241": {
-"when": "04.11.2026 17:00",
-"status": "full",
-"title": "(S) Beritt Schulpferd"
 },
 "35697": {
 "when": "04.11.2026 17:45",
@@ -23,11 +23,6 @@
 "when": "04.11.2026 17:45",
 "status": "wait",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
-},
-"36243": {
-"when": "04.11.2026 18:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 },
 "35694": {
 "when": "04.11.2026 18:15",
@@ -76,7 +71,7 @@
 },
 "35704": {
 "when": "05.11.2026 12:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "35705": {
@@ -99,14 +94,14 @@
 "status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
-"35709": {
+"35710": {
 "when": "05.11.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
-"35710": {
+"35709": {
 "when": "05.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35711": {
@@ -161,7 +156,7 @@
 },
 "35721": {
 "when": "06.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35722": {
@@ -1441,7 +1436,7 @@
 },
 "36011": {
 "when": "24.11.2026 13:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36012": {
@@ -1923,15 +1918,5 @@
 "when": "29.11.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
-},
-"36104": {
-"when": "29.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
-"36137": {
-"when": "30.11.2026 19:00",
-"status": "wait",
-"title": "(P) Einzelstunde"
 }
 }
