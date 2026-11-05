@@ -21,52 +21,52 @@
 },
 "35706": {
 "when": "05.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35707": {
 "when": "05.11.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35708": {
 "when": "05.11.2026 14:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35710": {
 "when": "05.11.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35709": {
 "when": "05.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35711": {
 "when": "05.11.2026 18:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35712": {
 "when": "05.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35713": {
 "when": "05.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35714": {
 "when": "05.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35715": {
 "when": "05.11.2026 20:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "35716": {
@@ -165,18 +165,13 @@
 "title": "Working Kurs"
 },
 "35734": {
-"when": "07.11.2026 10:00",
+"when": "07.11.2026 11:00",
 "status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
-"35735": {
-"when": "07.11.2026 11:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
 "35736": {
 "when": "07.11.2026 12:00",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35737": {
@@ -198,11 +193,6 @@
 "when": "07.11.2026 13:45",
 "status": "full",
 "title": "(S) Schnupper-Reitstunde"
-},
-"35740": {
-"when": "07.11.2026 14:00",
-"status": "mind",
-"title": "(P) Springen"
 },
 "36248": {
 "when": "07.11.2026 14:30",
@@ -371,7 +361,7 @@
 },
 "35788": {
 "when": "09.11.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Einzelstunde"
 },
 "35789": {
@@ -931,7 +921,7 @@
 },
 "35912": {
 "when": "17.11.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35913": {
