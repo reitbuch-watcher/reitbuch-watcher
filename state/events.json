@@ -1,52 +1,52 @@
 {
 "35996": {
 "when": "07.11.2026 08:20",
-"status": "full",
+"status": "resv",
 "title": "Working Kurs"
 },
 "35734": {
 "when": "07.11.2026 11:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35736": {
 "when": "07.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35737": {
 "when": "07.11.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35738": {
 "when": "07.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35997": {
 "when": "07.11.2026 13:00",
-"status": "full",
+"status": "resv",
 "title": "Working Kurs"
 },
 "35739": {
 "when": "07.11.2026 13:45",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "36248": {
 "when": "07.11.2026 14:30",
-"status": "wait",
+"status": "resv",
 "title": "Beritt"
 },
 "35741": {
 "when": "07.11.2026 15:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Stangentraining"
 },
 "35742": {
 "when": "07.11.2026 16:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Cavaletti"
 },
 "35744": {
@@ -206,7 +206,7 @@
 },
 "35789": {
 "when": "09.11.2026 19:15",
-"status": "wait",
+"status": "mind",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "35790": {
@@ -591,7 +591,7 @@
 },
 "35867": {
 "when": "15.11.2026 12:30",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35868": {
@@ -806,7 +806,7 @@
 },
 "35921": {
 "when": "18.11.2026 18:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35922": {
@@ -1016,7 +1016,7 @@
 },
 "35964": {
 "when": "21.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35965": {
