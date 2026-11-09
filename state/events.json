@@ -1,33 +1,23 @@
 {
+"36439": {
+"when": "09.11.2026 16:30",
+"status": "resv",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
 "35790": {
 "when": "09.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
-"35787": {
+"36438": {
 "when": "09.11.2026 18:30",
-"status": "wait",
-"title": "(P) Springtraining mit Patrick Kühn"
+"status": "resv",
+"title": "(P) Einzelstunde"
 },
 "35788": {
 "when": "09.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
-},
-"35789": {
-"when": "09.11.2026 19:15",
-"status": "wait",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
-"35786": {
-"when": "09.11.2026 19:45",
-"status": "wait",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
-"35785": {
-"when": "09.11.2026 20:15",
-"status": "wait",
-"title": "(P) Springen Einzel Patrick Kühn"
 },
 "35791": {
 "when": "10.11.2026 11:00",
@@ -71,7 +61,7 @@
 },
 "35799": {
 "when": "10.11.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35800": {
@@ -139,6 +129,11 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
+"36436": {
+"when": "11.11.2026 18:30",
+"status": "wait",
+"title": "Beritt"
+},
 "35814": {
 "when": "11.11.2026 18:30",
 "status": "wait",
@@ -163,6 +158,11 @@
 "when": "11.11.2026 20:00",
 "status": "wait",
 "title": "(S+P) Stangentraining"
+},
+"36437": {
+"when": "11.11.2026 21:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
 },
 "35819": {
 "when": "12.11.2026 11:00",
@@ -361,17 +361,17 @@
 },
 "35858": {
 "when": "14.11.2026 15:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "35859": {
 "when": "14.11.2026 16:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Cavaletti"
 },
 "35860": {
 "when": "14.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "35861": {
@@ -396,7 +396,7 @@
 },
 "35865": {
 "when": "15.11.2026 11:00",
-"status": "free",
+"status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35866": {
@@ -616,7 +616,7 @@
 },
 "35920": {
 "when": "18.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(P) Cavaletti und Springen"
 },
 "35921": {
@@ -1201,7 +1201,7 @@
 },
 "36046": {
 "when": "26.11.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "36047": {
@@ -1651,7 +1651,7 @@
 },
 "36164": {
 "when": "03.12.2026 12:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "36165": {
@@ -1661,7 +1661,7 @@
 },
 "36166": {
 "when": "03.12.2026 13:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36167": {
@@ -1878,25 +1878,5 @@
 "when": "06.12.2026 12:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36210": {
-"when": "06.12.2026 12:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36211": {
-"when": "06.12.2026 13:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36212": {
-"when": "06.12.2026 13:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36213": {
-"when": "06.12.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
 }
 }
