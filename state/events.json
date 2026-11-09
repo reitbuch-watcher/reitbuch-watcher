@@ -1,128 +1,8 @@
 {
-"35747": {
-"when": "08.11.2026 10:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35748": {
-"when": "08.11.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35749": {
-"when": "08.11.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35750": {
-"when": "08.11.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35751": {
-"when": "08.11.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35752": {
-"when": "08.11.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35753": {
-"when": "08.11.2026 14:15",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35754": {
-"when": "08.11.2026 15:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35755": {
-"when": "08.11.2026 15:30",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35758": {
-"when": "08.11.2026 16:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35756": {
-"when": "08.11.2026 16:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35757": {
-"when": "08.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35759": {
-"when": "08.11.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35760": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
-},
-"35761": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35762": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35763": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35764": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
-},
-"35765": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
-},
-"35766": {
-"when": "08.11.2026 20:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
-},
-"35767": {
-"when": "08.11.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
-},
-"35768": {
-"when": "08.11.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
-},
-"35769": {
-"when": "08.11.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
-"35770": {
-"when": "08.11.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
-"35771": {
-"when": "08.11.2026 21:00",
-"status": "resv",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
+"35790": {
+"when": "09.11.2026 17:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
 },
 "35787": {
 "when": "09.11.2026 18:30",
@@ -131,18 +11,13 @@
 },
 "35788": {
 "when": "09.11.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "35789": {
 "when": "09.11.2026 19:15",
 "status": "wait",
 "title": "(P) Springen Einzel Patrick Kühn"
-},
-"35790": {
-"when": "09.11.2026 19:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
 },
 "35786": {
 "when": "09.11.2026 19:45",
@@ -486,7 +361,7 @@
 },
 "35858": {
 "when": "14.11.2026 15:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
 },
 "35859": {
@@ -536,7 +411,7 @@
 },
 "35868": {
 "when": "15.11.2026 13:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Longe"
 },
 "35869": {
@@ -641,7 +516,7 @@
 },
 "35900": {
 "when": "16.11.2026 19:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "35901": {
@@ -861,7 +736,7 @@
 },
 "35944": {
 "when": "20.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35945": {
@@ -1111,7 +986,7 @@
 },
 "36003": {
 "when": "23.11.2026 17:45",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "36004": {
@@ -1928,5 +1803,100 @@
 "when": "05.12.2026 10:00",
 "status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
+},
+"36195": {
+"when": "05.12.2026 11:00",
+"status": "free",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36196": {
+"when": "05.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36197": {
+"when": "05.12.2026 12:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36198": {
+"when": "05.12.2026 13:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36199": {
+"when": "05.12.2026 13:45",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36200": {
+"when": "05.12.2026 14:00",
+"status": "mind",
+"title": "(P) Springen"
+},
+"36201": {
+"when": "05.12.2026 15:00",
+"status": "free",
+"title": "(S+P) Stangentraining"
+},
+"36202": {
+"when": "05.12.2026 16:00",
+"status": "mind",
+"title": "(S+P) Cavaletti"
+},
+"36203": {
+"when": "05.12.2026 17:00",
+"status": "mind",
+"title": "(S+P) Springen"
+},
+"36204": {
+"when": "05.12.2026 18:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"36205": {
+"when": "05.12.2026 19:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"36206": {
+"when": "05.12.2026 20:00",
+"status": "mind",
+"title": "(P) freies Springen (ohne Trainer)"
+},
+"36207": {
+"when": "06.12.2026 10:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36208": {
+"when": "06.12.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36209": {
+"when": "06.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36210": {
+"when": "06.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36211": {
+"when": "06.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36212": {
+"when": "06.12.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36213": {
+"when": "06.12.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
 }
 }
