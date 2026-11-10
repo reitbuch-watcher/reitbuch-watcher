@@ -1,32 +1,12 @@
 {
-"36439": {
-"when": "09.11.2026 16:30",
-"status": "resv",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35790": {
-"when": "09.11.2026 17:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"36438": {
-"when": "09.11.2026 18:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35788": {
-"when": "09.11.2026 19:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
 "35791": {
 "when": "10.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "35792": {
 "when": "10.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35793": {
@@ -51,12 +31,12 @@
 },
 "35797": {
 "when": "10.11.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35798": {
 "when": "10.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35799": {
@@ -88,11 +68,6 @@
 "when": "10.11.2026 19:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35805": {
-"when": "10.11.2026 20:15",
-"status": "mind",
-"title": "(P) Cavaletti und Springen"
 },
 "35806": {
 "when": "11.11.2026 16:00",
@@ -241,7 +216,7 @@
 },
 "35833": {
 "when": "13.11.2026 11:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35834": {
@@ -1691,7 +1666,7 @@
 },
 "36172": {
 "when": "03.12.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "36173": {
@@ -1878,5 +1853,25 @@
 "when": "06.12.2026 12:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
+},
+"36210": {
+"when": "06.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36211": {
+"when": "06.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36212": {
+"when": "06.12.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36213": {
+"when": "06.12.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
 }
 }
