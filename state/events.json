@@ -11,62 +11,62 @@
 },
 "35793": {
 "when": "10.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35794": {
 "when": "10.11.2026 13:30",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35795": {
 "when": "10.11.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35796": {
 "when": "10.11.2026 16:30",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35797": {
 "when": "10.11.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35798": {
 "when": "10.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35799": {
 "when": "10.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35800": {
 "when": "10.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35801": {
 "when": "10.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35802": {
 "when": "10.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35803": {
 "when": "10.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35804": {
 "when": "10.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35806": {
@@ -246,12 +246,12 @@
 },
 "35839": {
 "when": "13.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35840": {
 "when": "13.11.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35841": {
@@ -1868,10 +1868,5 @@
 "when": "06.12.2026 13:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36213": {
-"when": "06.12.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
 }
 }
