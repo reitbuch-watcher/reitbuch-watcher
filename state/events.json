@@ -1,69 +1,4 @@
 {
-"35807": {
-"when": "11.11.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35808": {
-"when": "11.11.2026 17:00",
-"status": "resv",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35809": {
-"when": "11.11.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35810": {
-"when": "11.11.2026 17:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35811": {
-"when": "11.11.2026 18:00",
-"status": "resv",
-"title": "(P) Cavaletti und Springen"
-},
-"35812": {
-"when": "11.11.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36436": {
-"when": "11.11.2026 18:30",
-"status": "resv",
-"title": "Beritt"
-},
-"35814": {
-"when": "11.11.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35815": {
-"when": "11.11.2026 19:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35816": {
-"when": "11.11.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35817": {
-"when": "11.11.2026 19:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35818": {
-"when": "11.11.2026 20:00",
-"status": "wait",
-"title": "(S+P) Stangentraining"
-},
-"36437": {
-"when": "11.11.2026 21:00",
-"status": "wait",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
 "35819": {
 "when": "12.11.2026 11:00",
 "status": "wait",
@@ -306,7 +241,7 @@
 },
 "35867": {
 "when": "15.11.2026 12:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35868": {
@@ -1883,5 +1818,85 @@
 "when": "06.12.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
+},
+"36231": {
+"when": "06.12.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
+},
+"36251": {
+"when": "07.12.2026 17:00",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"36252": {
+"when": "07.12.2026 17:45",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"36253": {
+"when": "07.12.2026 18:30",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"36254": {
+"when": "07.12.2026 19:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36255": {
+"when": "07.12.2026 19:15",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
+},
+"36256": {
+"when": "07.12.2026 19:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36257": {
+"when": "08.12.2026 11:00",
+"status": "wait",
+"title": "(S+P) Hausfrauen Dressur"
+},
+"36258": {
+"when": "08.12.2026 12:00",
+"status": "mind",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"36259": {
+"when": "08.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36260": {
+"when": "08.12.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36261": {
+"when": "08.12.2026 14:00",
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36262": {
+"when": "08.12.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36263": {
+"when": "08.12.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36264": {
+"when": "08.12.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36265": {
+"when": "08.12.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
