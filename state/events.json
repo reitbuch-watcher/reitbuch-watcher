@@ -21,57 +21,57 @@
 },
 "35823": {
 "when": "12.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35824": {
 "when": "12.11.2026 13:30",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35825": {
 "when": "12.11.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35826": {
 "when": "12.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35827": {
 "when": "12.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35828": {
 "when": "12.11.2026 18:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36250": {
 "when": "12.11.2026 18:15",
-"status": "full",
+"status": "resv",
 "title": "Springen"
 },
 "35829": {
 "when": "12.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35830": {
 "when": "12.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35831": {
 "when": "12.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35832": {
 "when": "12.11.2026 20:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "35833": {
@@ -98,11 +98,6 @@
 "when": "13.11.2026 15:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35838": {
-"when": "13.11.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35839": {
 "when": "13.11.2026 16:00",
@@ -154,11 +149,6 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
-"35849": {
-"when": "13.11.2026 19:00",
-"status": "mind",
-"title": "(S+P) Dressur 2+3"
-},
 "35850": {
 "when": "13.11.2026 19:00",
 "status": "wait",
@@ -181,13 +171,13 @@
 },
 "35854": {
 "when": "14.11.2026 12:30",
-"status": "mind",
-"title": "(P) Einzelstunde"
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35855": {
 "when": "14.11.2026 13:00",
-"status": "mind",
-"title": "(S) Longen- und Einzelstunden Anfänger"
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "35856": {
 "when": "14.11.2026 13:45",
@@ -201,7 +191,7 @@
 },
 "35859": {
 "when": "14.11.2026 16:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35860": {
@@ -396,7 +386,7 @@
 },
 "35909": {
 "when": "17.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35910": {
@@ -411,7 +401,7 @@
 },
 "35912": {
 "when": "17.11.2026 19:00",
-"status": "wait",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35913": {
@@ -516,7 +506,7 @@
 },
 "35933": {
 "when": "19.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35934": {
@@ -1031,7 +1021,7 @@
 },
 "36045": {
 "when": "26.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36046": {
@@ -1146,7 +1136,7 @@
 },
 "36068": {
 "when": "28.11.2026 10:00",
-"status": "full",
+"status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "36234": {
@@ -1171,7 +1161,7 @@
 },
 "36072": {
 "when": "28.11.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36073": {
@@ -1186,7 +1176,7 @@
 },
 "36075": {
 "when": "28.11.2026 15:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "36245": {
@@ -1196,7 +1186,7 @@
 },
 "36076": {
 "when": "28.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "36077": {
@@ -1676,7 +1666,7 @@
 },
 "36202": {
 "when": "05.12.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "36203": {
