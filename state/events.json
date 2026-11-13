@@ -1,79 +1,4 @@
 {
-"35819": {
-"when": "12.11.2026 11:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35820": {
-"when": "12.11.2026 11:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35821": {
-"when": "12.11.2026 12:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35822": {
-"when": "12.11.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35823": {
-"when": "12.11.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35824": {
-"when": "12.11.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35825": {
-"when": "12.11.2026 14:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35826": {
-"when": "12.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35827": {
-"when": "12.11.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35828": {
-"when": "12.11.2026 18:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36250": {
-"when": "12.11.2026 18:15",
-"status": "resv",
-"title": "Springen"
-},
-"35829": {
-"when": "12.11.2026 19:00",
-"status": "resv",
-"title": "(S+P) Springen"
-},
-"35830": {
-"when": "12.11.2026 19:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35831": {
-"when": "12.11.2026 19:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35832": {
-"when": "12.11.2026 20:00",
-"status": "resv",
-"title": "(S+P) Dressur 2+3"
-},
 "35833": {
 "when": "13.11.2026 11:00",
 "status": "free",
@@ -616,7 +541,7 @@
 },
 "35955": {
 "when": "20.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "35956": {
@@ -1576,7 +1501,7 @@
 },
 "36184": {
 "when": "04.12.2026 17:00",
-"status": "wait",
+"status": "full",
 "title": "(S+P) Einzelstunde"
 },
 "36185": {
@@ -1606,7 +1531,7 @@
 },
 "36190": {
 "when": "04.12.2026 18:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36191": {
@@ -1848,5 +1773,80 @@
 "when": "08.12.2026 11:00",
 "status": "wait",
 "title": "(S+P) Hausfrauen Dressur"
+},
+"36258": {
+"when": "08.12.2026 12:00",
+"status": "mind",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"36259": {
+"when": "08.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36260": {
+"when": "08.12.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36261": {
+"when": "08.12.2026 14:00",
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36262": {
+"when": "08.12.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36263": {
+"when": "08.12.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36264": {
+"when": "08.12.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36265": {
+"when": "08.12.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36266": {
+"when": "08.12.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36267": {
+"when": "08.12.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36268": {
+"when": "08.12.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 3 (Aufbau)"
+},
+"36269": {
+"when": "08.12.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36270": {
+"when": "08.12.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36271": {
+"when": "08.12.2026 20:15",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
+},
+"36272": {
+"when": "09.12.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
