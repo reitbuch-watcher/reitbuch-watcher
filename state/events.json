@@ -1,7 +1,7 @@
 {
 "35833": {
 "when": "13.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35834": {
@@ -206,7 +206,7 @@
 },
 "35877": {
 "when": "15.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
 },
 "35878": {
@@ -251,7 +251,7 @@
 },
 "35886": {
 "when": "15.11.2026 21:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 },
 "35887": {
@@ -451,7 +451,7 @@
 },
 "35937": {
 "when": "19.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "35938": {
@@ -1001,7 +1001,7 @@
 },
 "36056": {
 "when": "27.11.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36057": {
