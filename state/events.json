@@ -46,17 +46,17 @@
 },
 "35861": {
 "when": "14.11.2026 18:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35862": {
 "when": "14.11.2026 19:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35863": {
 "when": "14.11.2026 20:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) freies Springen (ohne Trainer)"
 },
 "35864": {
@@ -179,13 +179,18 @@
 "status": "mind",
 "title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
 },
-"35899": {
-"when": "16.11.2026 19:00",
+"35900": {
+"when": "16.11.2026 18:00",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
-"35900": {
-"when": "16.11.2026 19:30",
+"35899": {
+"when": "16.11.2026 18:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36442": {
+"when": "16.11.2026 19:00",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
@@ -531,7 +536,7 @@
 },
 "35970": {
 "when": "22.11.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35971": {
@@ -1813,15 +1818,5 @@
 "when": "09.12.2026 19:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36282": {
-"when": "09.12.2026 19:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36283": {
-"when": "09.12.2026 19:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
 }
 }
