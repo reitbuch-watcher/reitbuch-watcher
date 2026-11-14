@@ -1,94 +1,4 @@
 {
-"35833": {
-"when": "13.11.2026 11:00",
-"status": "resv",
-"title": "(S+P) Hausfrauen Stangentraining"
-},
-"35834": {
-"when": "13.11.2026 15:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35835": {
-"when": "13.11.2026 15:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35836": {
-"when": "13.11.2026 15:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35837": {
-"when": "13.11.2026 15:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35838": {
-"when": "13.11.2026 16:00",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
-"35839": {
-"when": "13.11.2026 16:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35840": {
-"when": "13.11.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36441": {
-"when": "13.11.2026 16:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35841": {
-"when": "13.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35842": {
-"when": "13.11.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35843": {
-"when": "13.11.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35844": {
-"when": "13.11.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35845": {
-"when": "13.11.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35846": {
-"when": "13.11.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35847": {
-"when": "13.11.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35848": {
-"when": "13.11.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35850": {
-"when": "13.11.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
 "35851": {
 "when": "14.11.2026 10:00",
 "status": "wait",
@@ -1796,7 +1706,7 @@
 },
 "36260": {
 "when": "08.12.2026 13:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36261": {
@@ -1838,5 +1748,85 @@
 "when": "08.12.2026 19:00",
 "status": "mind",
 "title": "(S) Dressur 3 (Aufbau)"
+},
+"36269": {
+"when": "08.12.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36270": {
+"when": "08.12.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36271": {
+"when": "08.12.2026 20:15",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
+},
+"36272": {
+"when": "09.12.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36273": {
+"when": "09.12.2026 17:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36274": {
+"when": "09.12.2026 17:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
+"36275": {
+"when": "09.12.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36276": {
+"when": "09.12.2026 17:45",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36277": {
+"when": "09.12.2026 18:00",
+"status": "mind",
+"title": "(P) Cavaletti und Springen"
+},
+"36278": {
+"when": "09.12.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36279": {
+"when": "09.12.2026 18:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36280": {
+"when": "09.12.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36281": {
+"when": "09.12.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36282": {
+"when": "09.12.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36283": {
+"when": "09.12.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36284": {
+"when": "09.12.2026 20:00",
+"status": "free",
+"title": "(S+P) Stangentraining"
 }
 }
