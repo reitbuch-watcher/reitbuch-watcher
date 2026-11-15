@@ -1,123 +1,8 @@
 {
-"35864": {
-"when": "15.11.2026 10:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35865": {
-"when": "15.11.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35866": {
-"when": "15.11.2026 12:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35867": {
-"when": "15.11.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35868": {
-"when": "15.11.2026 13:00",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35869": {
-"when": "15.11.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35870": {
-"when": "15.11.2026 14:15",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35871": {
-"when": "15.11.2026 15:00",
-"status": "resv",
-"title": "Unterricht: Umgang mit dem Pferd"
-},
-"35872": {
-"when": "15.11.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35873": {
-"when": "15.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35874": {
-"when": "15.11.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35875": {
-"when": "15.11.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35876": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
-},
-"35877": {
-"when": "15.11.2026 20:00",
-"status": "free",
-"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
-},
-"35878": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
-},
-"35879": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
-},
-"35880": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
-},
-"35881": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
-},
-"35882": {
-"when": "15.11.2026 20:00",
-"status": "mind",
-"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
-},
-"35883": {
-"when": "15.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
-},
-"35884": {
-"when": "15.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
-"35885": {
-"when": "15.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
-},
-"35886": {
-"when": "15.11.2026 21:00",
-"status": "free",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
-},
-"35887": {
-"when": "15.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
+"36443": {
+"when": "16.11.2026 17:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
 },
 "35900": {
 "when": "16.11.2026 18:00",
@@ -133,6 +18,11 @@
 "when": "16.11.2026 19:00",
 "status": "wait",
 "title": "(P) Einzelstunde"
+},
+"36444": {
+"when": "16.11.2026 20:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35901": {
 "when": "17.11.2026 11:00",
@@ -1666,7 +1556,7 @@
 },
 "36266": {
 "when": "08.12.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36267": {
@@ -1813,5 +1703,145 @@
 "when": "10.12.2026 19:00",
 "status": "wait",
 "title": "(S+P) Springen"
+},
+"36296": {
+"when": "10.12.2026 19:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36297": {
+"when": "10.12.2026 19:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36298": {
+"when": "10.12.2026 20:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"36299": {
+"when": "11.12.2026 11:00",
+"status": "mind",
+"title": "(S+P) Hausfrauen Stangentraining"
+},
+"36300": {
+"when": "11.12.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36301": {
+"when": "11.12.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36302": {
+"when": "11.12.2026 15:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36303": {
+"when": "11.12.2026 15:30",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36304": {
+"when": "11.12.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36305": {
+"when": "11.12.2026 16:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36306": {
+"when": "11.12.2026 16:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36307": {
+"when": "11.12.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36308": {
+"when": "11.12.2026 17:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36309": {
+"when": "11.12.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36310": {
+"when": "11.12.2026 17:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36311": {
+"when": "11.12.2026 18:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36312": {
+"when": "11.12.2026 18:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36313": {
+"when": "11.12.2026 18:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36314": {
+"when": "11.12.2026 18:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36315": {
+"when": "11.12.2026 19:00",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36316": {
+"when": "11.12.2026 19:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"36317": {
+"when": "13.12.2026 10:00",
+"status": "wait",
+"title": "(S) Longen- und Einzelstunden Anfänger"
+},
+"36318": {
+"when": "13.12.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36319": {
+"when": "13.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36320": {
+"when": "13.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36321": {
+"when": "13.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"36322": {
+"when": "13.12.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36323": {
+"when": "13.12.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
 }
 }
