@@ -1,77 +1,17 @@
 {
-"35851": {
-"when": "14.11.2026 10:00",
-"status": "resv",
-"title": "(S) Dressur 1 (Anfänger)"
-},
-"35852": {
-"when": "14.11.2026 11:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35853": {
-"when": "14.11.2026 12:00",
-"status": "resv",
-"title": "(S+P) Longe"
-},
-"35854": {
-"when": "14.11.2026 12:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35855": {
-"when": "14.11.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35856": {
-"when": "14.11.2026 13:45",
-"status": "resv",
-"title": "(S) Schnupper-Reitstunde"
-},
-"35858": {
-"when": "14.11.2026 15:00",
-"status": "resv",
-"title": "(S+P) Stangentraining"
-},
-"35859": {
-"when": "14.11.2026 16:00",
-"status": "resv",
-"title": "(S+P) Cavaletti"
-},
-"35860": {
-"when": "14.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Springen"
-},
-"35861": {
-"when": "14.11.2026 18:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35862": {
-"when": "14.11.2026 19:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
-"35863": {
-"when": "14.11.2026 20:00",
-"status": "resv",
-"title": "(P) freies Springen (ohne Trainer)"
-},
 "35864": {
 "when": "15.11.2026 10:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35865": {
 "when": "15.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35866": {
 "when": "15.11.2026 12:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35867": {
@@ -371,7 +311,7 @@
 },
 "35936": {
 "when": "19.11.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35937": {
@@ -1818,5 +1758,115 @@
 "when": "09.12.2026 19:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36282": {
+"when": "09.12.2026 19:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36283": {
+"when": "09.12.2026 19:30",
+"status": "wait",
+"title": "(P) Dressur-Einzel Bendix Eichholz"
+},
+"36284": {
+"when": "09.12.2026 20:00",
+"status": "free",
+"title": "(S+P) Stangentraining"
+},
+"36285": {
+"when": "10.12.2026 11:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36286": {
+"when": "10.12.2026 11:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36287": {
+"when": "10.12.2026 12:00",
+"status": "mind",
+"title": "(P) Einzelstunde"
+},
+"36288": {
+"when": "10.12.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36289": {
+"when": "10.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36290": {
+"when": "10.12.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36291": {
+"when": "10.12.2026 14:00",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36292": {
+"when": "10.12.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36293": {
+"when": "10.12.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36294": {
+"when": "10.12.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36295": {
+"when": "10.12.2026 19:00",
+"status": "wait",
+"title": "(S+P) Springen"
+},
+"36296": {
+"when": "10.12.2026 19:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36297": {
+"when": "10.12.2026 19:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36298": {
+"when": "10.12.2026 20:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"36299": {
+"when": "11.12.2026 11:00",
+"status": "mind",
+"title": "(S+P) Hausfrauen Stangentraining"
+},
+"36300": {
+"when": "11.12.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36301": {
+"when": "11.12.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36302": {
+"when": "11.12.2026 15:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36303": {
+"when": "11.12.2026 15:30",
+"status": "mind",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
 }
 }
