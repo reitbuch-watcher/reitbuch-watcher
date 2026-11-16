@@ -206,7 +206,7 @@
 },
 "35940": {
 "when": "20.11.2026 15:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35941": {
@@ -241,7 +241,7 @@
 },
 "35947": {
 "when": "20.11.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35948": {
@@ -251,7 +251,7 @@
 },
 "35949": {
 "when": "20.11.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35950": {
@@ -656,7 +656,7 @@
 },
 "36039": {
 "when": "26.11.2026 12:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36040": {
@@ -741,7 +741,7 @@
 },
 "36056": {
 "when": "27.11.2026 16:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36057": {
@@ -821,7 +821,7 @@
 },
 "36071": {
 "when": "28.11.2026 12:30",
-"status": "wait",
+"status": "full",
 "title": "(P) Einzelstunde"
 },
 "36072": {
@@ -1061,7 +1061,7 @@
 },
 "36148": {
 "when": "01.12.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36149": {
@@ -1111,7 +1111,7 @@
 },
 "36158": {
 "when": "02.12.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Cavaletti und Springen"
 },
 "36159": {
@@ -1286,7 +1286,7 @@
 },
 "36193": {
 "when": "04.12.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36194": {
@@ -1501,7 +1501,7 @@
 },
 "36255": {
 "when": "07.12.2026 19:15",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "36256": {
@@ -1833,15 +1833,5 @@
 "when": "13.12.2026 13:00",
 "status": "wait",
 "title": "(S+P) Longe"
-},
-"36322": {
-"when": "13.12.2026 13:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36323": {
-"when": "13.12.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
 }
 }
