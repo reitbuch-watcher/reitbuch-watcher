@@ -1,27 +1,32 @@
 {
+"36445": {
+"when": "16.11.2026 13:00",
+"status": "resv",
+"title": "Beritt"
+},
 "36443": {
 "when": "16.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35900": {
 "when": "16.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35899": {
 "when": "16.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "36442": {
 "when": "16.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "36444": {
 "when": "16.11.2026 20:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "35901": {
@@ -51,7 +56,7 @@
 },
 "35906": {
 "when": "17.11.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35907": {
@@ -61,7 +66,7 @@
 },
 "35908": {
 "when": "17.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35909": {
@@ -81,7 +86,7 @@
 },
 "35912": {
 "when": "17.11.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35913": {
@@ -111,7 +116,7 @@
 },
 "35918": {
 "when": "18.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35919": {
@@ -131,7 +136,7 @@
 },
 "35922": {
 "when": "18.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35923": {
@@ -606,7 +611,7 @@
 },
 "36029": {
 "when": "25.11.2026 18:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36030": {
@@ -746,7 +751,7 @@
 },
 "36057": {
 "when": "27.11.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36058": {
@@ -771,7 +776,7 @@
 },
 "36062": {
 "when": "27.11.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36063": {
@@ -1823,15 +1828,5 @@
 "when": "13.12.2026 12:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36320": {
-"when": "13.12.2026 12:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36321": {
-"when": "13.12.2026 13:00",
-"status": "wait",
-"title": "(S+P) Longe"
 }
 }
