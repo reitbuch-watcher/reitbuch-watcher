@@ -1,47 +1,17 @@
 {
-"36445": {
-"when": "16.11.2026 13:00",
-"status": "resv",
-"title": "Beritt"
-},
-"36443": {
-"when": "16.11.2026 17:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35900": {
-"when": "16.11.2026 18:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"35899": {
-"when": "16.11.2026 18:30",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"36442": {
-"when": "16.11.2026 19:00",
-"status": "resv",
-"title": "(P) Einzelstunde"
-},
-"36444": {
-"when": "16.11.2026 20:00",
-"status": "resv",
-"title": "(S) Beritt Schulpferd"
-},
 "35901": {
 "when": "17.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "35902": {
 "when": "17.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35903": {
 "when": "17.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35904": {
@@ -176,7 +146,7 @@
 },
 "35933": {
 "when": "19.11.2026 18:00",
-"status": "free",
+"status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35934": {
@@ -366,7 +336,7 @@
 },
 "35972": {
 "when": "22.11.2026 12:30",
-"status": "full",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35973": {
@@ -441,7 +411,7 @@
 },
 "35987": {
 "when": "22.11.2026 20:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
 },
 "35988": {
@@ -466,7 +436,7 @@
 },
 "35992": {
 "when": "22.11.2026 21:00",
-"status": "mind",
+"status": "free",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 },
 "35993": {
@@ -721,7 +691,7 @@
 },
 "36051": {
 "when": "27.11.2026 15:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36052": {
@@ -1376,7 +1346,7 @@
 },
 "36210": {
 "when": "06.12.2026 12:30",
-"status": "wait",
+"status": "full",
 "title": "(S+P) Einzelstunde"
 },
 "36211": {
@@ -1826,6 +1796,21 @@
 },
 "36319": {
 "when": "13.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36320": {
+"when": "13.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36321": {
+"when": "13.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"36322": {
+"when": "13.12.2026 13:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 }
