@@ -16,63 +16,63 @@
 },
 "35904": {
 "when": "17.11.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35905": {
 "when": "17.11.2026 14:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35906": {
 "when": "17.11.2026 16:30",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35907": {
 "when": "17.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35908": {
 "when": "17.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35909": {
 "when": "17.11.2026 18:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35910": {
 "when": "17.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35911": {
 "when": "17.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35912": {
 "when": "17.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "35913": {
 "when": "17.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35914": {
 "when": "17.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "35915": {
 "when": "18.11.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "35916": {
 "when": "18.11.2026 17:00",
@@ -581,7 +581,7 @@
 },
 "36029": {
 "when": "25.11.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36030": {
@@ -1092,7 +1092,7 @@
 "36159": {
 "when": "02.12.2026 18:30",
 "status": "mind",
-"title": "(S+P) Einzelstunde"
+"title": "(S+P) Longe"
 },
 "36160": {
 "when": "02.12.2026 19:00",
@@ -1211,7 +1211,7 @@
 },
 "36183": {
 "when": "04.12.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36184": {
@@ -1306,7 +1306,7 @@
 },
 "36202": {
 "when": "05.12.2026 16:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Cavaletti"
 },
 "36203": {
@@ -1454,11 +1454,6 @@
 "status": "mind",
 "title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
 },
-"36251": {
-"when": "07.12.2026 17:00",
-"status": "mind",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
 "36252": {
 "when": "07.12.2026 17:45",
 "status": "mind",
@@ -1483,6 +1478,11 @@
 "when": "07.12.2026 19:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
+},
+"36251": {
+"when": "07.12.2026 20:00",
+"status": "mind",
+"title": "(P) Springtraining mit Patrick Kühn"
 },
 "36257": {
 "when": "08.12.2026 11:00",
@@ -1541,7 +1541,7 @@
 },
 "36268": {
 "when": "08.12.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 3 (Aufbau)"
 },
 "36269": {
@@ -1731,7 +1731,7 @@
 },
 "36306": {
 "when": "11.12.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36307": {
@@ -1776,7 +1776,7 @@
 },
 "36315": {
 "when": "11.12.2026 19:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36316": {
@@ -1793,25 +1793,5 @@
 "when": "13.12.2026 11:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36319": {
-"when": "13.12.2026 12:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36320": {
-"when": "13.12.2026 12:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36321": {
-"when": "13.12.2026 13:00",
-"status": "wait",
-"title": "(S+P) Longe"
-},
-"36322": {
-"when": "13.12.2026 13:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 }
 }
