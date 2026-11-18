@@ -1,47 +1,47 @@
 {
 "35915": {
 "when": "18.11.2026 16:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Beritt Schulpferd"
 },
 "35916": {
 "when": "18.11.2026 17:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35917": {
 "when": "18.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "35918": {
 "when": "18.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Springen Einzel Jaroslav Pikolon"
 },
 "35919": {
 "when": "18.11.2026 17:45",
-"status": "full",
+"status": "resv",
 "title": "(S) Schnupper-Reitstunde"
 },
 "35920": {
 "when": "18.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Cavaletti und Springen"
 },
 "35921": {
 "when": "18.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35922": {
 "when": "18.11.2026 19:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35923": {
 "when": "18.11.2026 20:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Stangentraining"
 },
 "35924": {
@@ -101,7 +101,7 @@
 },
 "35938": {
 "when": "20.11.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "35939": {
@@ -226,7 +226,7 @@
 },
 "35964": {
 "when": "21.11.2026 16:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Cavaletti"
 },
 "35965": {
@@ -271,7 +271,7 @@
 },
 "35972": {
 "when": "22.11.2026 12:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35973": {
@@ -384,13 +384,18 @@
 "status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
+"36007": {
+"when": "23.11.2026 18:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
 "36004": {
 "when": "23.11.2026 18:30",
 "status": "mind",
 "title": "(P) Springtraining mit Patrick Kühn"
 },
 "36005": {
-"when": "23.11.2026 19:00",
+"when": "23.11.2026 18:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
@@ -398,11 +403,6 @@
 "when": "23.11.2026 19:15",
 "status": "wait",
 "title": "(P) Springtraining mit Patrick Kühn"
-},
-"36007": {
-"when": "23.11.2026 19:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
 },
 "36008": {
 "when": "24.11.2026 11:00",
@@ -476,7 +476,7 @@
 },
 "36022": {
 "when": "24.11.2026 20:15",
-"status": "mind",
+"status": "free",
 "title": "(P) Cavaletti und Springen"
 },
 "36023": {
@@ -1823,10 +1823,5 @@
 "when": "13.12.2026 21:00",
 "status": "mind",
 "title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
-},
-"36339": {
-"when": "13.12.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 }
 }
