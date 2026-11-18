@@ -1,74 +1,4 @@
 {
-"35901": {
-"when": "17.11.2026 11:00",
-"status": "resv",
-"title": "(S+P) Hausfrauen Dressur"
-},
-"35902": {
-"when": "17.11.2026 12:00",
-"status": "resv",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"35903": {
-"when": "17.11.2026 13:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35904": {
-"when": "17.11.2026 13:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35905": {
-"when": "17.11.2026 14:00",
-"status": "resv",
-"title": "(S) Longen- und Einzelstunden Anfänger"
-},
-"35906": {
-"when": "17.11.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35907": {
-"when": "17.11.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35908": {
-"when": "17.11.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35909": {
-"when": "17.11.2026 18:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35910": {
-"when": "17.11.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35911": {
-"when": "17.11.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35912": {
-"when": "17.11.2026 19:00",
-"status": "resv",
-"title": "(S) Dressur 3 (Aufbau)"
-},
-"35913": {
-"when": "17.11.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"35914": {
-"when": "17.11.2026 19:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
 "35915": {
 "when": "18.11.2026 16:00",
 "status": "full",
@@ -146,7 +76,7 @@
 },
 "35933": {
 "when": "19.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35934": {
@@ -324,6 +254,11 @@
 "status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
+"35993": {
+"when": "22.11.2026 10:30",
+"status": "free",
+"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
+},
 "35970": {
 "when": "22.11.2026 11:00",
 "status": "free",
@@ -336,7 +271,7 @@
 },
 "35972": {
 "when": "22.11.2026 12:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "35973": {
@@ -438,11 +373,6 @@
 "when": "22.11.2026 21:00",
 "status": "free",
 "title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
-},
-"35993": {
-"when": "22.11.2026 21:00",
-"status": "mind",
-"title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
 },
 "36002": {
 "when": "23.11.2026 17:00",
@@ -906,7 +836,7 @@
 },
 "36090": {
 "when": "29.11.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36091": {
@@ -1091,8 +1021,8 @@
 },
 "36159": {
 "when": "02.12.2026 18:30",
-"status": "mind",
-"title": "(S+P) Longe"
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "36160": {
 "when": "02.12.2026 19:00",
@@ -1261,7 +1191,7 @@
 },
 "36193": {
 "when": "04.12.2026 19:00",
-"status": "wait",
+"status": "full",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36194": {
@@ -1793,5 +1723,110 @@
 "when": "13.12.2026 11:00",
 "status": "mind",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36319": {
+"when": "13.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36320": {
+"when": "13.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36321": {
+"when": "13.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"36322": {
+"when": "13.12.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36323": {
+"when": "13.12.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36324": {
+"when": "13.12.2026 15:00",
+"status": "mind",
+"title": "Unterricht: Umgang mit dem Pferd"
+},
+"36325": {
+"when": "13.12.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36326": {
+"when": "13.12.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36327": {
+"when": "13.12.2026 17:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36328": {
+"when": "13.12.2026 18:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36329": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt und Einzelstunden ohne festen Termin"
+},
+"36330": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Uli - Beritt und Einzelstunden ohne festen Termin"
+},
+"36331": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt und Einzelstunden ohne festen Termin"
+},
+"36332": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Sigrid - Beritt und Einzelstunden ohne festen Termin"
+},
+"36333": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Anna-Lena (ext.) - Beritt und Einzelstunden ohne festen Termin"
+},
+"36334": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt und Einzelstunden ohne festen Termin"
+},
+"36335": {
+"when": "13.12.2026 20:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt und Einzelstunden ohne festen Termin"
+},
+"36336": {
+"when": "13.12.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Jaro - Beritt mit Vor- und Nachbereitung"
+},
+"36337": {
+"when": "13.12.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
+},
+"36338": {
+"when": "13.12.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Susi - Beritt mit Vor- und Nachbereitung"
+},
+"36339": {
+"when": "13.12.2026 21:00",
+"status": "mind",
+"title": "Wochenpool Joey - Beritt mit Vor- und Nachbereitung"
 }
 }
