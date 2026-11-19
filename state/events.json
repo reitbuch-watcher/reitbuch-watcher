@@ -21,37 +21,37 @@
 },
 "35931": {
 "when": "19.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35932": {
 "when": "19.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35933": {
 "when": "19.11.2026 18:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35934": {
 "when": "19.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "35935": {
 "when": "19.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35936": {
 "when": "19.11.2026 19:30",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35937": {
 "when": "19.11.2026 20:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "35938": {
@@ -66,7 +66,7 @@
 },
 "35940": {
 "when": "20.11.2026 15:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35941": {
@@ -76,7 +76,7 @@
 },
 "35942": {
 "when": "20.11.2026 15:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35943": {
@@ -101,7 +101,7 @@
 },
 "35947": {
 "when": "20.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35948": {
@@ -111,7 +111,7 @@
 },
 "35949": {
 "when": "20.11.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35950": {
@@ -181,7 +181,7 @@
 },
 "35964": {
 "when": "21.11.2026 16:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Cavaletti"
 },
 "35965": {
@@ -209,9 +209,14 @@
 "status": "wait",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
+"36446": {
+"when": "22.11.2026 10:30",
+"status": "full",
+"title": "Beritt Ulrike Stockelmann"
+},
 "35993": {
 "when": "22.11.2026 10:30",
-"status": "free",
+"status": "mind",
 "title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
 },
 "35970": {
@@ -251,12 +256,12 @@
 },
 "35977": {
 "when": "22.11.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "35978": {
 "when": "22.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35979": {
@@ -511,7 +516,7 @@
 },
 "36038": {
 "when": "26.11.2026 12:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "36039": {
@@ -531,8 +536,8 @@
 },
 "36042": {
 "when": "26.11.2026 14:00",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
+"status": "full",
+"title": "(S) Longen- und Einzelstunden Anfänger nur durch Reitlehrer buchbar"
 },
 "36043": {
 "when": "26.11.2026 17:00",
@@ -791,7 +796,7 @@
 },
 "36090": {
 "when": "29.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36091": {
@@ -1021,8 +1026,8 @@
 },
 "36168": {
 "when": "03.12.2026 14:00",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
+"status": "full",
+"title": "(S) Longen- und Einzelstunden Anfänger nur durch Reitlehrer buchbar"
 },
 "36169": {
 "when": "03.12.2026 17:00",
@@ -1106,7 +1111,7 @@
 },
 "36185": {
 "when": "04.12.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36186": {
@@ -1631,7 +1636,7 @@
 },
 "36309": {
 "when": "11.12.2026 17:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36310": {
@@ -1721,7 +1726,7 @@
 },
 "36327": {
 "when": "13.12.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36328": {
