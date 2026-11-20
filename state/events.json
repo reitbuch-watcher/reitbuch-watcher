@@ -6,87 +6,87 @@
 },
 "35939": {
 "when": "20.11.2026 15:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35940": {
 "when": "20.11.2026 15:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35941": {
 "when": "20.11.2026 15:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35942": {
 "when": "20.11.2026 15:30",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35943": {
 "when": "20.11.2026 16:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35944": {
 "when": "20.11.2026 16:00",
-"status": "mind",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35945": {
 "when": "20.11.2026 16:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35946": {
 "when": "20.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35947": {
 "when": "20.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35948": {
 "when": "20.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35949": {
 "when": "20.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35950": {
 "when": "20.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35951": {
 "when": "20.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35952": {
 "when": "20.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "35953": {
 "when": "20.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35954": {
 "when": "20.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "35955": {
 "when": "20.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "35956": {
@@ -101,7 +101,7 @@
 },
 "35958": {
 "when": "21.11.2026 12:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Longe"
 },
 "35959": {
@@ -451,7 +451,7 @@
 },
 "36035": {
 "when": "25.11.2026 20:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Stangentraining"
 },
 "36036": {
@@ -661,7 +661,7 @@
 },
 "36075": {
 "when": "28.11.2026 15:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Stangentraining"
 },
 "36076": {
@@ -901,7 +901,7 @@
 },
 "36152": {
 "when": "01.12.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36153": {
@@ -1611,7 +1611,7 @@
 },
 "36313": {
 "when": "11.12.2026 18:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36314": {
@@ -1863,10 +1863,5 @@
 "when": "16.12.2026 18:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
-},
-"36364": {
-"when": "16.12.2026 19:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 }
 }
