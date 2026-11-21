@@ -1,117 +1,27 @@
 {
-"35938": {
-"when": "20.11.2026 11:00",
-"status": "resv",
-"title": "(S+P) Hausfrauen Stangentraining"
-},
-"35939": {
-"when": "20.11.2026 15:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35940": {
-"when": "20.11.2026 15:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35941": {
-"when": "20.11.2026 15:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35942": {
-"when": "20.11.2026 15:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35943": {
-"when": "20.11.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"35944": {
-"when": "20.11.2026 16:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35945": {
-"when": "20.11.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35946": {
-"when": "20.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35947": {
-"when": "20.11.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35948": {
-"when": "20.11.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35949": {
-"when": "20.11.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35950": {
-"when": "20.11.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35951": {
-"when": "20.11.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35952": {
-"when": "20.11.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"35953": {
-"when": "20.11.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35954": {
-"when": "20.11.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"35955": {
-"when": "20.11.2026 19:00",
-"status": "resv",
-"title": "(S+P) Dressur 2+3"
-},
 "35956": {
 "when": "21.11.2026 10:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "35957": {
 "when": "21.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "35958": {
 "when": "21.11.2026 12:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Longe"
 },
 "35959": {
 "when": "21.11.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "35960": {
 "when": "21.11.2026 13:00",
-"status": "wait",
+"status": "mind",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "35961": {
@@ -128,11 +38,6 @@
 "when": "21.11.2026 16:00",
 "status": "wait",
 "title": "(S+P) Cavaletti"
-},
-"36448": {
-"when": "21.11.2026 17:00",
-"status": "full",
-"title": "Springtraining"
 },
 "35965": {
 "when": "21.11.2026 17:00",
@@ -284,6 +189,16 @@
 "status": "mind",
 "title": "Wochenpool Uli - Beritt mit Vor- und Nachbereitung"
 },
+"36449": {
+"when": "23.11.2026 17:00",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
+"36450": {
+"when": "23.11.2026 17:30",
+"status": "full",
+"title": "(S) Beritt Schulpferd"
+},
 "36003": {
 "when": "23.11.2026 18:00",
 "status": "wait",
@@ -336,12 +251,12 @@
 },
 "36012": {
 "when": "24.11.2026 14:00",
-"status": "wait",
+"status": "mind",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36013": {
 "when": "24.11.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36014": {
@@ -1066,7 +981,7 @@
 },
 "36185": {
 "when": "04.12.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36186": {
@@ -1206,7 +1121,7 @@
 },
 "36213": {
 "when": "06.12.2026 14:15",
-"status": "mind",
+"status": "full",
 "title": "(S) Schnupper-Reitstunde"
 },
 "36214": {
@@ -1546,7 +1461,7 @@
 },
 "36300": {
 "when": "11.12.2026 15:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36301": {
@@ -1786,7 +1701,7 @@
 },
 "36348": {
 "when": "15.12.2026 16:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36349": {
@@ -1862,6 +1777,106 @@
 "36363": {
 "when": "16.12.2026 18:30",
 "status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36364": {
+"when": "16.12.2026 19:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36365": {
+"when": "16.12.2026 20:00",
+"status": "free",
+"title": "(S+P) Stangentraining"
+},
+"36366": {
+"when": "17.12.2026 11:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36367": {
+"when": "17.12.2026 11:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36368": {
+"when": "17.12.2026 12:00",
+"status": "mind",
+"title": "(P) Einzelstunde"
+},
+"36369": {
+"when": "17.12.2026 12:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36370": {
+"when": "17.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36371": {
+"when": "17.12.2026 13:30",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36372": {
+"when": "17.12.2026 14:00",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36373": {
+"when": "17.12.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36374": {
+"when": "17.12.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36375": {
+"when": "17.12.2026 18:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36376": {
+"when": "17.12.2026 19:00",
+"status": "free",
+"title": "(S+P) Springen"
+},
+"36377": {
+"when": "17.12.2026 19:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36378": {
+"when": "17.12.2026 19:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36379": {
+"when": "17.12.2026 20:00",
+"status": "mind",
+"title": "(S+P) Dressur 2+3"
+},
+"36380": {
+"when": "18.12.2026 11:00",
+"status": "mind",
+"title": "(S+P) Hausfrauen Stangentraining"
+},
+"36381": {
+"when": "18.12.2026 15:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36382": {
+"when": "18.12.2026 15:00",
+"status": "wait",
+"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36383": {
+"when": "18.12.2026 15:30",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 }
 }
