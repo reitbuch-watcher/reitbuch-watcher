@@ -1,14 +1,4 @@
 {
-"36449": {
-"when": "23.11.2026 17:00",
-"status": "full",
-"title": "(S) Beritt Schulpferd"
-},
-"36450": {
-"when": "23.11.2026 17:30",
-"status": "full",
-"title": "(S) Beritt Schulpferd"
-},
 "36003": {
 "when": "23.11.2026 18:00",
 "status": "wait",
@@ -28,6 +18,11 @@
 "when": "23.11.2026 18:45",
 "status": "wait",
 "title": "(P) Springen Einzel Patrick Kühn"
+},
+"36452": {
+"when": "23.11.2026 19:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
 },
 "36006": {
 "when": "23.11.2026 19:15",
@@ -81,7 +76,7 @@
 },
 "36016": {
 "when": "24.11.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36017": {
@@ -331,7 +326,7 @@
 },
 "36066": {
 "when": "27.11.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "36067": {
@@ -626,7 +621,7 @@
 },
 "36152": {
 "when": "01.12.2026 19:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36153": {
@@ -749,11 +744,6 @@
 "status": "mind",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
-"36177": {
-"when": "04.12.2026 15:00",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
-},
 "36178": {
 "when": "04.12.2026 15:00",
 "status": "wait",
@@ -833,6 +823,11 @@
 "when": "04.12.2026 19:00",
 "status": "full",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
+},
+"36453": {
+"when": "04.12.2026 20:00",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
 },
 "36194": {
 "when": "05.12.2026 10:00",
@@ -1121,7 +1116,7 @@
 },
 "36270": {
 "when": "08.12.2026 19:30",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36271": {
@@ -1353,6 +1348,31 @@
 "when": "11.12.2026 19:00",
 "status": "mind",
 "title": "(S+P) Dressur 2+3"
+},
+"36454": {
+"when": "12.12.2026 10:00",
+"status": "mind",
+"title": "(S) Dressur 1 (Anfänger)"
+},
+"36455": {
+"when": "12.12.2026 11:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36456": {
+"when": "12.12.2026 12:00",
+"status": "mind",
+"title": "(S+P) Einzelstunde"
+},
+"36457": {
+"when": "12.12.2026 12:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36458": {
+"when": "12.12.2026 13:00",
+"status": "mind",
+"title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36317": {
 "when": "13.12.2026 10:00",
@@ -1836,51 +1856,6 @@
 },
 "36413": {
 "when": "20.12.2026 12:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36414": {
-"when": "20.12.2026 12:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36415": {
-"when": "20.12.2026 13:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36416": {
-"when": "20.12.2026 13:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36417": {
-"when": "20.12.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
-},
-"36418": {
-"when": "20.12.2026 15:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36419": {
-"when": "20.12.2026 15:30",
-"status": "wait",
-"title": "(S+P) Longe"
-},
-"36420": {
-"when": "20.12.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36421": {
-"when": "20.12.2026 17:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36422": {
-"when": "20.12.2026 17:30",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 }
