@@ -1,39 +1,4 @@
 {
-"36003": {
-"when": "23.11.2026 18:00",
-"status": "wait",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"36007": {
-"when": "23.11.2026 18:00",
-"status": "wait",
-"title": "(P) Einzelstunde"
-},
-"36005": {
-"when": "23.11.2026 18:30",
-"status": "wait",
-"title": "(P) Einzelstunde"
-},
-"36004": {
-"when": "23.11.2026 18:45",
-"status": "wait",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
-"36452": {
-"when": "23.11.2026 19:00",
-"status": "wait",
-"title": "(P) Einzelstunde"
-},
-"36006": {
-"when": "23.11.2026 19:15",
-"status": "wait",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"36002": {
-"when": "23.11.2026 20:00",
-"status": "wait",
-"title": "(P) Springen Einzel Patrick Kühn"
-},
 "36008": {
 "when": "24.11.2026 11:00",
 "status": "free",
@@ -171,7 +136,7 @@
 },
 "36035": {
 "when": "25.11.2026 20:00",
-"status": "wait",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "36036": {
@@ -251,7 +216,7 @@
 },
 "36051": {
 "when": "27.11.2026 15:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36052": {
@@ -381,7 +346,7 @@
 },
 "36075": {
 "when": "28.11.2026 15:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "36076": {
@@ -741,7 +706,7 @@
 },
 "36176": {
 "when": "04.12.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Hausfrauen Stangentraining"
 },
 "36178": {
@@ -1019,35 +984,15 @@
 "status": "mind",
 "title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
 },
-"36252": {
-"when": "07.12.2026 17:45",
-"status": "wait",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
-"36253": {
-"when": "07.12.2026 18:30",
-"status": "mind",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
 "36254": {
 "when": "07.12.2026 19:00",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
-"36255": {
-"when": "07.12.2026 19:15",
-"status": "wait",
-"title": "(P) Springtraining mit Patrick Kühn"
-},
 "36256": {
 "when": "07.12.2026 19:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
-},
-"36251": {
-"when": "07.12.2026 20:00",
-"status": "mind",
-"title": "(P) Springtraining mit Patrick Kühn"
 },
 "36257": {
 "when": "08.12.2026 11:00",
@@ -1311,7 +1256,7 @@
 },
 "36309": {
 "when": "11.12.2026 17:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36310": {
@@ -1351,12 +1296,12 @@
 },
 "36454": {
 "when": "12.12.2026 10:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "36455": {
 "when": "12.12.2026 11:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36456": {
@@ -1856,6 +1801,56 @@
 },
 "36413": {
 "when": "20.12.2026 12:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36414": {
+"when": "20.12.2026 12:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36415": {
+"when": "20.12.2026 13:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36416": {
+"when": "20.12.2026 13:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36417": {
+"when": "20.12.2026 14:15",
+"status": "mind",
+"title": "(S) Schnupper-Reitstunde"
+},
+"36418": {
+"when": "20.12.2026 15:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36419": {
+"when": "20.12.2026 15:30",
+"status": "wait",
+"title": "(S+P) Longe"
+},
+"36420": {
+"when": "20.12.2026 16:00",
+"status": "mind",
+"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+},
+"36421": {
+"when": "20.12.2026 17:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36422": {
+"when": "20.12.2026 17:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
+},
+"36423": {
+"when": "20.12.2026 18:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 }
