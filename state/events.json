@@ -1,27 +1,27 @@
 {
 "36008": {
 "when": "24.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Hausfrauen Dressur"
 },
 "36009": {
 "when": "24.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "Beritt mit Vor- und Nachbereitung"
 },
 "36010": {
 "when": "24.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36011": {
 "when": "24.11.2026 13:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36012": {
 "when": "24.11.2026 14:00",
-"status": "mind",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36013": {
@@ -119,6 +119,11 @@
 "status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
+"36468": {
+"when": "25.11.2026 18:45",
+"status": "wait",
+"title": "Beritt mit Vor- und Nachbereitung"
+},
 "36032": {
 "when": "25.11.2026 19:00",
 "status": "free",
@@ -196,7 +201,7 @@
 },
 "36047": {
 "when": "26.11.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36048": {
@@ -881,7 +886,7 @@
 },
 "36211": {
 "when": "06.12.2026 13:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36212": {
@@ -1616,7 +1621,7 @@
 },
 "36376": {
 "when": "17.12.2026 19:00",
-"status": "free",
+"status": "wait",
 "title": "(S+P) Springen"
 },
 "36377": {
@@ -1846,11 +1851,6 @@
 },
 "36422": {
 "when": "20.12.2026 17:30",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
-},
-"36423": {
-"when": "20.12.2026 18:00",
 "status": "wait",
 "title": "(S+P) Einzelstunde"
 }
