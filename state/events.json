@@ -246,7 +246,7 @@
 },
 "36071": {
 "when": "28.11.2026 12:30",
-"status": "full",
+"status": "wait",
 "title": "(P) Einzelstunde"
 },
 "36072": {
@@ -266,7 +266,7 @@
 },
 "36075": {
 "when": "28.11.2026 15:00",
-"status": "free",
+"status": "mind",
 "title": "(S+P) Stangentraining"
 },
 "36076": {
@@ -366,7 +366,7 @@
 },
 "36092": {
 "when": "29.11.2026 18:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36096": {
@@ -981,7 +981,7 @@
 },
 "36270": {
 "when": "08.12.2026 19:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36271": {
