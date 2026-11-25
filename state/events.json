@@ -1,74 +1,4 @@
 {
-"36023": {
-"when": "25.11.2026 16:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36024": {
-"when": "25.11.2026 17:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36025": {
-"when": "25.11.2026 17:00",
-"status": "wait",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"36026": {
-"when": "25.11.2026 17:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36027": {
-"when": "25.11.2026 17:45",
-"status": "full",
-"title": "(S) Schnupper-Reitstunde"
-},
-"36028": {
-"when": "25.11.2026 18:00",
-"status": "mind",
-"title": "(P) Cavaletti und Springen"
-},
-"36029": {
-"when": "25.11.2026 18:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36030": {
-"when": "25.11.2026 18:30",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
-},
-"36031": {
-"when": "25.11.2026 18:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36468": {
-"when": "25.11.2026 18:45",
-"status": "wait",
-"title": "Beritt mit Vor- und Nachbereitung"
-},
-"36032": {
-"when": "25.11.2026 19:00",
-"status": "free",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36033": {
-"when": "25.11.2026 19:00",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36034": {
-"when": "25.11.2026 19:30",
-"status": "wait",
-"title": "(P) Dressur-Einzel Bendix Eichholz"
-},
-"36035": {
-"when": "25.11.2026 20:00",
-"status": "free",
-"title": "(S+P) Stangentraining"
-},
 "36036": {
 "when": "26.11.2026 11:00",
 "status": "wait",
@@ -193,11 +123,6 @@
 "when": "27.11.2026 17:30",
 "status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36062": {
-"when": "27.11.2026 18:00",
-"status": "wait",
-"title": "(S+P) Einzelstunde"
 },
 "36063": {
 "when": "27.11.2026 18:00",
@@ -346,7 +271,7 @@
 },
 "36089": {
 "when": "29.11.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36447": {
@@ -356,7 +281,7 @@
 },
 "36090": {
 "when": "29.11.2026 17:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36091": {
@@ -429,13 +354,23 @@
 "status": "mind",
 "title": "Wochenpool Miriam - Beritt mit Vor- und Nachbereitung"
 },
+"36470": {
+"when": "30.11.2026 17:30",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
+"36469": {
+"when": "30.11.2026 18:00",
+"status": "wait",
+"title": "(P) Einzelstunde"
+},
 "36137": {
-"when": "30.11.2026 19:00",
+"when": "30.11.2026 18:30",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
 "36138": {
-"when": "30.11.2026 19:30",
+"when": "30.11.2026 19:00",
 "status": "wait",
 "title": "(P) Einzelstunde"
 },
@@ -541,7 +476,7 @@
 },
 "36159": {
 "when": "02.12.2026 18:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36160": {
@@ -636,7 +571,7 @@
 },
 "36179": {
 "when": "04.12.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36180": {
@@ -761,7 +696,7 @@
 },
 "36203": {
 "when": "05.12.2026 17:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Springen"
 },
 "36204": {
@@ -801,7 +736,7 @@
 },
 "36211": {
 "when": "06.12.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36212": {
@@ -941,7 +876,7 @@
 },
 "36262": {
 "when": "08.12.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36263": {
@@ -1131,7 +1066,7 @@
 },
 "36300": {
 "when": "11.12.2026 15:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36301": {
@@ -1186,7 +1121,7 @@
 },
 "36311": {
 "when": "11.12.2026 18:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36312": {
@@ -1396,7 +1331,7 @@
 },
 "36348": {
 "when": "15.12.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36349": {
@@ -1576,7 +1511,7 @@
 },
 "36384": {
 "when": "18.12.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36385": {
@@ -1596,7 +1531,7 @@
 },
 "36388": {
 "when": "18.12.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36389": {
@@ -1681,7 +1616,7 @@
 },
 "36405": {
 "when": "19.12.2026 15:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Stangentraining"
 },
 "36406": {
