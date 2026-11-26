@@ -31,43 +31,38 @@
 },
 "36042": {
 "when": "26.11.2026 14:00",
-"status": "full",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger nur durch Reitlehrer buchbar"
 },
 "36043": {
 "when": "26.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36044": {
 "when": "26.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36045": {
 "when": "26.11.2026 18:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36046": {
 "when": "26.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Springen"
 },
 "36047": {
 "when": "26.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36048": {
 "when": "26.11.2026 19:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
-},
-"36050": {
-"when": "27.11.2026 11:00",
-"status": "mind",
-"title": "(S+P) Hausfrauen Stangentraining"
 },
 "36051": {
 "when": "27.11.2026 15:00",
@@ -193,16 +188,6 @@
 "when": "28.11.2026 14:00",
 "status": "full",
 "title": "Kurs Sitzschulung (Nadja Eichholz)"
-},
-"36075": {
-"when": "28.11.2026 15:00",
-"status": "mind",
-"title": "(S+P) Stangentraining"
-},
-"36076": {
-"when": "28.11.2026 16:00",
-"status": "wait",
-"title": "(S+P) Cavaletti"
 },
 "36077": {
 "when": "28.11.2026 17:00",
@@ -426,7 +411,7 @@
 },
 "36147": {
 "when": "01.12.2026 18:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36148": {
@@ -521,7 +506,7 @@
 },
 "36166": {
 "when": "03.12.2026 13:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36167": {
@@ -591,12 +576,12 @@
 },
 "36181": {
 "when": "04.12.2026 16:00",
-"status": "mind",
+"status": "free",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36182": {
 "when": "04.12.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36183": {
@@ -1016,7 +1001,7 @@
 },
 "36288": {
 "when": "10.12.2026 12:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36289": {
@@ -1101,7 +1086,7 @@
 },
 "36305": {
 "when": "11.12.2026 16:00",
-"status": "wait",
+"status": "mind",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36306": {
