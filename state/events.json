@@ -1,87 +1,87 @@
 {
 "36051": {
 "when": "27.11.2026 15:00",
-"status": "mind",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36052": {
 "when": "27.11.2026 15:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36053": {
 "when": "27.11.2026 15:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36054": {
 "when": "27.11.2026 15:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36055": {
 "when": "27.11.2026 16:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36056": {
 "when": "27.11.2026 16:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36057": {
 "when": "27.11.2026 16:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36058": {
 "when": "27.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36059": {
 "when": "27.11.2026 17:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36060": {
 "when": "27.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36061": {
 "when": "27.11.2026 17:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36471": {
 "when": "27.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36063": {
 "when": "27.11.2026 18:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36064": {
 "when": "27.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Einzelstunde"
 },
 "36065": {
 "when": "27.11.2026 18:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36066": {
 "when": "27.11.2026 19:00",
-"status": "free",
+"status": "resv",
 "title": "(S+P) Dressur 2+3"
 },
 "36067": {
 "when": "27.11.2026 19:00",
-"status": "wait",
+"status": "resv",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36068": {
@@ -186,7 +186,7 @@
 },
 "36088": {
 "when": "29.11.2026 15:00",
-"status": "mind",
+"status": "free",
 "title": "Unterricht: Umgang mit dem Pferd"
 },
 "36089": {
@@ -336,7 +336,7 @@
 },
 "36144": {
 "when": "01.12.2026 16:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Bendix Eichholz"
 },
 "36145": {
@@ -481,7 +481,7 @@
 },
 "36173": {
 "when": "03.12.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36174": {
@@ -951,7 +951,7 @@
 },
 "36290": {
 "when": "10.12.2026 13:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36291": {
@@ -981,7 +981,7 @@
 },
 "36296": {
 "when": "10.12.2026 19:00",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36297": {
@@ -1016,7 +1016,7 @@
 },
 "36303": {
 "when": "11.12.2026 15:30",
-"status": "mind",
+"status": "wait",
 "title": "(P) Dressur-Einzel Anna-Lena Michalke"
 },
 "36304": {
@@ -1136,7 +1136,7 @@
 },
 "36322": {
 "when": "13.12.2026 13:30",
-"status": "wait",
+"status": "mind",
 "title": "(S+P) Einzelstunde"
 },
 "36323": {
@@ -1351,7 +1351,7 @@
 },
 "36369": {
 "when": "17.12.2026 12:30",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36370": {
