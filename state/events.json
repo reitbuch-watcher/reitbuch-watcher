@@ -1,117 +1,32 @@
 {
-"36051": {
-"when": "27.11.2026 15:00",
+"36234": {
+"when": "28.11.2026 09:00",
 "status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36052": {
-"when": "27.11.2026 15:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36053": {
-"when": "27.11.2026 15:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36054": {
-"when": "27.11.2026 15:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36055": {
-"when": "27.11.2026 16:00",
-"status": "resv",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
-},
-"36056": {
-"when": "27.11.2026 16:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36057": {
-"when": "27.11.2026 16:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36058": {
-"when": "27.11.2026 17:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36059": {
-"when": "27.11.2026 17:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36060": {
-"when": "27.11.2026 17:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36061": {
-"when": "27.11.2026 17:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36471": {
-"when": "27.11.2026 18:00",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36063": {
-"when": "27.11.2026 18:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36064": {
-"when": "27.11.2026 18:30",
-"status": "resv",
-"title": "(S+P) Einzelstunde"
-},
-"36065": {
-"when": "27.11.2026 18:30",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
-},
-"36066": {
-"when": "27.11.2026 19:00",
-"status": "resv",
-"title": "(S+P) Dressur 2+3"
-},
-"36067": {
-"when": "27.11.2026 19:00",
-"status": "resv",
-"title": "(P) Dressur-Einzel Anna-Lena Michalke"
+"title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
 "36068": {
 "when": "28.11.2026 10:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Dressur 1 (Anfänger)"
-},
-"36234": {
-"when": "28.11.2026 10:30",
-"status": "full",
-"title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
 "36069": {
 "when": "28.11.2026 11:00",
-"status": "free",
+"status": "resv",
 "title": "(S) Dressur 2 (Grundlagen) + P (WL)"
 },
 "36070": {
 "when": "28.11.2026 12:00",
-"status": "wait",
+"status": "resv",
 "title": "(S+P) Longe"
 },
 "36071": {
 "when": "28.11.2026 12:30",
-"status": "wait",
+"status": "resv",
 "title": "(P) Einzelstunde"
 },
 "36072": {
 "when": "28.11.2026 13:00",
-"status": "wait",
+"status": "resv",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36073": {
@@ -145,14 +60,14 @@
 "title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
 "36081": {
-"when": "29.11.2026 10:00",
+"when": "29.11.2026 10:45",
 "status": "mind",
 "title": "(S) Longen- und Einzelstunden Anfänger"
 },
 "36082": {
-"when": "29.11.2026 11:00",
-"status": "mind",
-"title": "(S) Dressur 2 (Grundlagen) + P (WL)"
+"when": "29.11.2026 11:30",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "36083": {
 "when": "29.11.2026 12:00",
@@ -180,9 +95,9 @@
 "title": "Kurs Sitzschulung (Nadja Eichholz)"
 },
 "36087": {
-"when": "29.11.2026 14:15",
-"status": "mind",
-"title": "(S) Schnupper-Reitstunde"
+"when": "29.11.2026 14:00",
+"status": "wait",
+"title": "(S+P) Einzelstunde"
 },
 "36088": {
 "when": "29.11.2026 15:00",
@@ -201,7 +116,7 @@
 },
 "36090": {
 "when": "29.11.2026 17:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36091": {
@@ -211,8 +126,8 @@
 },
 "36092": {
 "when": "29.11.2026 18:00",
-"status": "mind",
-"title": "(S+P) Einzelstunde"
+"status": "full",
+"title": "(S) Beritt Schulpferd"
 },
 "36096": {
 "when": "29.11.2026 20:00",
@@ -571,7 +486,7 @@
 },
 "36192": {
 "when": "04.12.2026 19:00",
-"status": "mind",
+"status": "free",
 "title": "(S+P) Dressur 2+3"
 },
 "36193": {
@@ -1086,7 +1001,7 @@
 },
 "36454": {
 "when": "12.12.2026 10:00",
-"status": "free",
+"status": "wait",
 "title": "(S) Dressur 1 (Anfänger)"
 },
 "36455": {
@@ -1096,7 +1011,7 @@
 },
 "36456": {
 "when": "12.12.2026 12:00",
-"status": "mind",
+"status": "wait",
 "title": "(S+P) Einzelstunde"
 },
 "36457": {
